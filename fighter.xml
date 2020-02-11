@@ -1,0 +1,4716 @@
+<fighter_config>
+
+ <fighter id="ending_sasuke" name="Ending Sasuke" comic_type="1">
+		<file url="assets/fighter/ending_sasuke.swf" startFrame="1" />
+		<face url="assets/face/ending_sasuke.png" big_url="assets/face/ending_sasuke_b.png" bar_url="assets/face/ending sasuke_m.png" win_url="assets/face/ending_sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>Check out BvN Character Station for more!</say_item>
+			<say_item>Character created by 墨世里的尘埃 </say_item>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="100" />
+	</fighter>
+
+ <fighter id="new_sasori" name="Sasori" comic_type="1">
+		<file url="assets/fighter/new_sasori.swf" startFrame="1" />
+		<face url="assets/face/new_sasori.png" big_url="assets/face/new_sasori_b.png" bar_url="assets/face/new_sasori_m.png" win_url="assets/face/w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>Character created by lllyntz1314</say_item>
+			<say_item>Check out BvN Character Station for more</say_item>
+			<say_item>Character downloaded from bbs.1212321.com</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="100" />
+	</fighter>
+
+ <fighter id="sasukekid_cs2" name="Sasuke Uchiha CS2" comic_type="1">
+		<file url="assets/fighter/sasukekid_cs2.swf" startFrame="1" />
+		<face url="assets/face/sasuke_zy.png" big_url="assets/face/sasuke_zy_b.png" bar_url="assets/face/sasuke_zy_m.png" win_url="assets/face/sasuke_zy_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了！</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="100" />
+	</fighter>
+
+ <fighter id="guy8gatesnew" name="Might Guy(8th Gates)" comic_type="1">
+		<file url="assets/fighter/guy8gatesnew.swf" startFrame="1" />
+		<face url="assets/face/guy8gatesnew.png" big_url="assets/face/guy8gatesnew_b.png" bar_url="assets/face/guy8gatesnew_m.png" win_url="assets/face/guy8gatesnew_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了！</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="100" />
+	</fighter>
+
+<fighter id="ichigo_wy11" name="葛力姆乔（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo_wy11.swf" startFrame="1" />
+		<face url="assets/face/ichigo_wy11.png" big_url="assets/face/ichigo_wy11_b.png" bar_url="assets/face/ichigo_wy11_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="rukia11" name="朽木·露琪亚（3.3）" comic_type="0">
+		<file url="assets/fighter/rukia11.swf" startFrame="1" />
+		<face url="assets/face/rukia11.png" big_url="assets/face/rukia11_b.png" bar_url="assets/face/rukia11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="rukia_shijie11" name="朽木·露琪亚·始解（3.3）" comic_type="0">
+		<file url="assets/fighter/rukia11.swf" startFrame="2" />
+		<face url="assets/face/rukia_sj11.png" big_url="assets/face/rukia_sj11_b.png" bar_url="assets/face/rukia_sj11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="renji11" name="阿散井·恋次（3.3）" comic_type="0">
+		<file url="assets/fighter/renji11.swf" startFrame="1" />
+		<face url="assets/face/renji11.png" big_url="assets/face/renji11_b.png" bar_url="assets/face/renji11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="kenpachi11" name="更木·剑八（3.3）" comic_type="0">
+		<file url="assets/fighter/kenpachi11.swf" startFrame="1" />
+		<face url="assets/face/kenpachi11.png" big_url="assets/face/kenpachi11_b.png" bar_url="assets/face/kenpachi11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>来吧、厮杀吧!</say_item>
+			<say_item>不畏惧死，为的是玩乐死亡。</say_item>
+			<say_item>每舍弃自尊一次，我们就越像是野兽。每扼杀一颗心，我们就远离野兽一步。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="ikkaku11" name="斑目·一角（3.3）" comic_type="0">
+		<file url="assets/fighter/ikkaku11.swf" startFrame="1" />
+		<face url="assets/face/ikkaku11.png" big_url="assets/face/ikkaku11_b.png" bar_url="assets/face/ikkaku11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我们每个人，打从出生的那一刻起就要迈向死亡。</say_item>
+			<say_item>无法超越死亡的人，那就必须去理解某些事。</say_item>
+			<say_item>结束总是在开始之前就已经存在了了。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="yin11" name="市丸·银（3.3）" comic_type="0">
+		<file url="assets/fighter/yin11.swf" startFrame="1" />
+		<face url="assets/face/yin11.png" big_url="assets/face/yin11_b.png" bar_url="assets/face/yin11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我无话可说！</say_item>
+			<say_item>对不起，蓝染队长。</say_item>
+			<say_item>真没办法……</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="chad11" name="茶渡·泰虎（3.3）" comic_type="0">
+		<file url="assets/fighter/chad11.swf" startFrame="1" />
+		<face url="assets/face/chad11.png" big_url="assets/face/chad11_b.png" bar_url="assets/face/chad11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>如果手上没有剑，我就不能保护你。</say_item>
+			<say_item>如果我一直握着剑，我就无法抱紧你。</say_item>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="uryuu11" name="石田·雨龙（3.3）" comic_type="0">
+		<file url="assets/fighter/uryuu11.swf" startFrame="1" />
+		<face url="assets/face/uryuu11.png" big_url="assets/face/uryuu11_b.png" bar_url="assets/face/uryuu11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我赌上灭却师的骄傲，一定要赢你</say_item>
+			<say_item>不堪一击...</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+<fighter id="naruto_lw11" name="碎蜂（3.3）" comic_type="0">
+		<file url="assets/fighter/narutolw11.swf" startFrame="1" />
+		<face url="assets/face/naruto_lw11.png" big_url="assets/face/naruto_lw11_b.png" bar_url="assets/face/naruto_lw11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/minren.mp3" rate="50" />
+	</fighter>
+
+<fighter id="orihime11" name="井上·织姬（3.3）" comic_type="0">
+		<file url="assets/fighter/orihime11.swf" startFrame="1" />
+		<face url="assets/face/orihime11.png" big_url="assets/face/orihime11_b.png" bar_url="assets/face/orihime11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我已经对你没兴趣了，闪一边去。</say_item>
+			<say_item>哎呀哎呀，浪费了我这么多时间。</say_item>
+			<say_item>药物每天8次，机器实验就每天5次吧，而改造我也会尽量避免把你搞死。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="toushirou11" name="日番谷·东狮郎（3.3）" comic_type="0">
+		<file url="assets/fighter/toushirou11.swf" startFrame="1" />
+		<face url="assets/face/toushirou11.png" big_url="assets/face/toushirou11_b.png" bar_url="assets/face/toushirou11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>在强烈的阳光下，印在薄冰之上的足迹消失无踪。 \n 不必害怕被欺骗，这世界原本就建立在假象之上。</say_item>
+			<say_item>不要叫我冬狮郎，是日番谷队长!</say_item>
+			<say_item>还差得远呢！</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="toushirou_wanjie11" name="日番谷·东狮郎·卍解（3.3）" comic_type="0">
+		<file url="assets/fighter/toushirou11.swf" startFrame="2" />
+		<face url="assets/face/toushirou_wj11.png" big_url="assets/face/toushirou_wj11_b.png" bar_url="assets/face/toushirou_wj11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>在强烈的阳光下，印在薄冰之上的足迹消失无踪。 \n 不必害怕被欺骗，这世界原本就建立在假象之上。</say_item>
+			<say_item>不要叫我冬狮郎，是日番谷队长!</say_item>
+			<say_item>还差得远呢！</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="byakuya11" name="朽木·白哉（3.3）" comic_type="0">
+		<file url="assets/fighter/byakuya11.swf" startFrame="1" />
+		<face url="assets/face/byakuya11.png" big_url="assets/face/byakuya11_b.png" bar_url="assets/face/byakuya11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真是迟钝啊。连倒下去都是这样。</say_item>
+			<say_item>喔……真没想到一介平民也能体会贵族的感受啊。</say_item>
+			<say_item>像你这种人，死在我的万解之下，还早了一千年。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="byakuya_wanjie11" name="朽木·白哉·卍解（3.3）" comic_type="0">
+		<file url="assets/fighter/byakuya11.swf" startFrame="2" />
+		<face url="assets/face/byakuya_wj11.png" big_url="assets/face/byakuya_wj11_b.png" bar_url="assets/face/byakuya_wj11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真是迟钝啊。连倒下去都是这样。</say_item>
+			<say_item>喔……真没想到一介平民也能体会贵族的感受啊。</say_item>
+			<say_item>像你这种人，死在我的万解之下，还早了一千年。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="ulquiorra11" name="乌尔奇奥拉（3.3）" comic_type="0">
+		<file url="assets/fighter/ulquiorra11.swf" startFrame="1" />
+		<face url="assets/face/ulquiorra11.png" big_url="assets/face/ulquiorra11_b.png" bar_url="assets/face/ulquiorra11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ulquiorra_guiren11" name="乌尔奇奥拉·归刃（3.3）" comic_type="0">
+		<file url="assets/fighter/ulquiorra11.swf" startFrame="2" />
+		<face url="assets/face/ulquiorra_gr11.png" big_url="assets/face/ulquiorra_gr11_b.png" bar_url="assets/face/ulquiorra_gr11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="aizen11" name="蓝染·惣右介（3.3）" comic_type="0">
+		<file url="assets/fighter/aizen11.swf" startFrame="1" />
+		<face url="assets/face/aizen11.png" big_url="assets/face/aizen_b.png" bar_url="assets/face/aizen11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="mayuri11" name="涅茧利（3.3）" comic_type="0">
+		<file url="assets/fighter/mayuri11.swf" startFrame="1" />
+		<face url="assets/face/mayuri11.png" big_url="assets/face/mayuri11_b.png" bar_url="assets/face/mayuri11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我已经对你没兴趣了，闪一变去。</say_item>
+			<say_item>哎呀哎呀，浪费了我这么多时间。</say_item>
+			<say_item>药物每天8次，机器实验就每天5次吧，而改造我也会尽量避免把你搞死。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+       <fighter id="kira" name="半虚·一护（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo2.swf" startFrame="3" />
+		<face url="assets/face/yihu3.png" big_url="assets/face/ichigo_bxh2_b.png" bar_url="assets/face/yihu3.png" win_url="assets/face/jlyh_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不能将战斗视为英雄般的行为，不能将战斗营造成爽朗的氛围，所谓的战斗应该是充满绝望，既阴沉，又恐怖，战斗只会是残酷的，只有这样人们才会畏惧战斗，进而选择避开战斗的道路。 如果可以，不要原谅我。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="ichigo2" name="黑崎·一护（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo2.swf" startFrame="1" />
+		<face url="assets/face/ichigo2.png" big_url="assets/face/ichigo2_b.png" bar_url="assets/face/ichigo2_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="ichigo_wanjie2" name="黑崎·一护·卍解（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo2.swf" startFrame="2" />
+		<face url="assets/face/ichigo_wj2.png" big_url="assets/face/ichigo_wj2_b.png" bar_url="assets/face/ichigo_wj2_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="ichigo_xuhua2" name="黑崎·一护·虚化（3.2）" comic_type="0">
+		<file url="assets/fighter/一护.swf" startFrame="3" />
+		<face url="assets/face/ichigo_xh2.png" big_url="assets/face/ichigo_xh2_b.png" bar_url="assets/face/ichigo_xh2_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ichigo_zero2" name="黑崎·一护·零段（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero2.swf" startFrame="1" />
+		<face url="assets/face/ichigo_zero2.png" big_url="assets/face/ichigo_zero2_b.png" bar_url="assets/face/ichigo_zero2_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="ichigo_neixu2" name="黑崎·一护·内虚（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero2.swf" startFrame="2" />
+		<face url="assets/face/ichigo_white22.png" big_url="assets/face/ichigo_white22_b.png" bar_url="assets/face/ichigo_neixu2_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ichigo_neixu_wanjie2" name="黑崎·一护·内虚·卍解（3.3）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero2.swf" startFrame="3" />
+		<face url="assets/face/ichigo_white_wj2.png" big_url="assets/face/ichigo_white_wj2_b.png" bar_url="assets/face/ichigo_neixu_wj2_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+       <fighter id="hqyhgd" name="黑崎·一护·共刀（東鉬改）" comic_type="0">
+		<file url="assets/fighter/chad.swf" startFrame="1" />
+		<face url="assets/face/gd.png" big_url="assets/face/gd2.png" bar_url="assets/face/gd3.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>http://bbs.5dplay.net/forum.php?mod=viewthread&tid=2155&extra=</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>
+
+       <fighter id="azweg" name="安兹乌尔恭（東鉬改）" comic_type="0">
+		<file url="assets/fighter/azweg.swf" startFrame="1" />
+		<face url="assets/face/azweg.png" big_url="assets/face/azweg_b.png" bar_url="assets/face/azweg_m.png" win_url="assets/face/229.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>吾乃侍奉无上至尊之人，作为先锋而来，宣告汝等的死亡！</say_item>
+			<say_item>这个世界哪里有什么正确答案呢？我们只能继续向前，即便脚底满是后悔与苦恼带来的伤痕，你也只能继续前进。</say_item>
+			<say_item>……fuck you</say_item>
+		</says>
+		<bgm url="assets/bgm/OxT - Clattanoia.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ichigo" name="黑崎·一护加强（小皮改）" comic_type="0">
+		<file url="assets/fighter/ichigo.swf" startFrame="1" />
+		<face url="assets/face/ichigo.png" big_url="assets/face/ichigo_b.png" bar_url="assets/face/ichigo_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/YUI-Rolling star.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="ichigo_wanjie" name="黑崎·一护·卍解加强（小皮改）" comic_type="0">
+		<file url="assets/fighter/ichigo.swf" startFrame="2" />
+		<face url="assets/face/ichigo_wj.png" big_url="assets/face/ichigo_wj_b.png" bar_url="assets/face/ichigo_wj_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/YUI-Rolling star.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="ichigo_xuhua" name="黑崎·一护·虚化加强（小皮改）" comic_type="0">
+		<file url="assets/fighter/ichigo.swf" startFrame="3" />
+		<face url="assets/face/ichigo_xh.png" big_url="assets/face/ichigo_xh_b.png" bar_url="assets/face/ichigo_xh_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="ichigo_ssdlxs" name="黑崎·一护·一杀（社长&渺渺改）" comic_type="0">
+		<file url="assets/fighter/黑崎一杀.swf" startFrame="1" />
+		<face url="assets/face/ichigo_ssdlxs.png" big_url="assets/face/ichigo_ssdlxs_b.png" bar_url="assets/face/ichigo_ssdlxs_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="50" />
+	</fighter>
+
+<fighter id="ichigo_sw" name="黑崎·一护·双纹虚化（炫光改）" comic_type="0">
+		<file url="assets/fighter/ichigo_sw.swf" startFrame="1" />
+		<face url="assets/face/ichigo_sw.png" big_url="assets/face/ichigo_sw_b.png" bar_url="assets/face/ichigo_sw_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="ichigo_banxuhua3" name="黑崎·一护·暴走虚化（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ichigobx2.swf" startFrame="3" />
+		<face url="assets/face/ichigo_bxh3.png" big_url="assets/face/ichigo_bxh3_b.png" bar_url="assets/face/ichigo_bxh3_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="300ichigo" name="黑崎·一护·300英雄（沃特水改）" comic_type="0">
+		<file url="assets/fighter/300ichigo.swf" startFrame="1" />
+		<face url="assets/face/ichigo_bxh.png" big_url="assets/face/ichigo_bxh_b.png" bar_url="assets/face/ichigo_w.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/select3.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="ichigo_banxuhua" name="黑崎·一护·半虚化（渺渺改）" comic_type="0">
+		<file url="assets/fighter/ichigobx.swf" startFrame="1" />
+		<face url="assets/face/ichigo_bxh2.png" big_url="assets/face/ichigo_bxh2_b.png" bar_url="assets/face/ichigo_bxh2_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="ichigo_niutou" name="黑崎·一护·完全虚化牛头（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ichigo_niutou.swf" startFrame="4" />
+		<face url="assets/face/ichigo_niutou.png" big_url="assets/face/ichigo_niutou_b.png" bar_url="assets/face/ichigo_niutou_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>啊啊啊啊啊啊啊</say_item>
+			<say_item>啊啊啊啊啊啊啊</say_item>
+			<say_item>啊啊啊啊啊啊啊</say_item>
+		</says>
+		<bgm url="assets/bgm/YUI-Rolling star.mp3" rate="70" />
+	</fighter>
+
+
+        <fighter id="ichigo_xiuxing" name="黑崎·一护·修行（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ichigo_wy.swf" startFrame="1" />
+		<face url="assets/face/ichigo_padipata.png" big_url="assets/face/ichigo_padipata_b.png" bar_url="assets/face/ichigo_bxx_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bye bye beautiful.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="ichigo_wy" name="黑崎·一护·无月（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ichigo_wy.swf" startFrame="2" />
+		<face url="assets/face/ichigo_wy.png" big_url="assets/face/ichigo_wy_b.png" bar_url="assets/face/ichigo_wy_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/Fall+Out+Boy+-+My+Songs+Know+What+You+Did+In+The+Dark+(light'em+Up).mp3" rate="70" />
+	</fighter>
+	
+<fighter id="tensa" name="天锁·斩月（東鉬改）" comic_type="0">
+		<file url="assets/fighter/tensa.swf" startFrame="1" />
+		<face url="assets/face/tensa.png" big_url="assets/face/tensa_b.png" bar_url="assets/face/tensa_m.png" win_url="assets/face/tszy.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>退却只会衰老，胆小必招死亡</say_item>
+			<say_item>如果你肯相信我，
+我不会让这个世界下任何一场雨，相信我，你并不是孤军奋战</say_item>
+			<say_item>退却只会衰老，胆小必招死亡</say_item>
+		</says>
+		<bgm url="assets/bgm/bye bye beautiful.mp3" rate="50" />
+	</fighter>
+
+<fighter id="tensa2" name="天锁·斩月（墨尘改）" comic_type="0">
+		<file url="assets/fighter/tensa2.swf" startFrame="1" />
+		<face url="assets/face/tensa2.png" big_url="assets/face/tensa2_b.png" bar_url="assets/face/tensa2_m.png" win_url="assets/face/tszy.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>退却只会衰老，胆小必招死亡</say_item>
+			<say_item>如果你肯相信我，
+我不会让这个世界下任何一场雨，相信我，你并不是孤军奋战</say_item>
+			<say_item>退却只会衰老，胆小必招死亡</say_item>
+		</says>
+		<bgm url="assets/bgm/bye bye beautiful.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="tensa3" name="天锁·斩月·白斩月（東鉬改）" comic_type="0">
+		<file url="assets/fighter/tensa3.swf" startFrame="2" />
+		<face url="assets/face/tensa3.png" big_url="assets/face/tensa3_b.png" bar_url="assets/face/tensa3_m.png" win_url="assets/face/tszy.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>退却只会衰老，胆小必招死亡</say_item>
+			<say_item>如果你肯相信我，
+我不会让这个世界下任何一场雨，相信我，你并不是孤军奋战</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bye bye beautiful.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="ichigo_zero" name="黑崎·一护·半虚（残殇改）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero.swf" startFrame="1" />
+		<face url="assets/face/ichigo_zero.png" big_url="assets/face/ichigo_zero_b.png" bar_url="assets/face/ichigo_zero_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="60" />
+	</fighter>
+	
+	<fighter id="ichigo_bmxb" name="黑崎·一护·半面虚白（墨尘改）" comic_type="0">
+		<file url="assets/fighter/半面虚白.swf" startFrame="1" />
+		<face url="assets/face/bmxb.png" big_url="assets/face/ichigo_white_b.png" bar_url="assets/face/bmxb2.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="ichigo_neixu" name="黑崎·一护·半虚卍解（残殇改）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero.swf" startFrame="2" />
+		<face url="assets/face/ichigo_white.png" big_url="assets/face/ichigo_white_b.png" bar_url="assets/face/ichigo_neixu_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="ichigo_neixu_wanjie" name="黑崎·一护·完全虚化（残殇改）" comic_type="0">
+		<file url="assets/fighter/ichigo_zero.swf" startFrame="3" />
+		<face url="assets/face/ichigo_white_wj.png" big_url="assets/face/ichigo_white_wj_b.png" bar_url="assets/face/ichigo_neixu_wj_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="ichigo_bainiutou" name="黑崎·一护·内虚·牛头（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ichigo_bainiutou.swf" startFrame="1" />
+		<face url="assets/face/ichigo_white2.png" big_url="assets/face/ichigo_white2_b.png" bar_url="assets/face/ichigo_bainiutou_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/STYX HELIX.mp3" rate="70" />
+	</fighter>
+	
+        <fighter id="ichigo_wxs" name="黑崎·一护·完现术（茶与水改）" comic_type="0">
+		<file url="assets/fighter/ichigo_wxs.swf" startFrame="1" />
+		<face url="assets/face/ichigo_wxs.png" big_url="assets/face/ichigo_wxs_b.png" bar_url="assets/face/ichigo_wxs_m.png" win_url="assets/face/ichigo_w.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/Ash2.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="rukia" name="千年血战·一护（墨尘改）" comic_type="0">
+		<file url="assets/fighter/rukia.swf" startFrame="1" />
+		<face url="assets/face/rukia.png" big_url="assets/face/rukia_b.png" bar_url="assets/face/rukia_m.png" win_url="assets/face/rukia_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/Fall+Out+Boy+-+My+Songs+Know+What+You+Did+In+The+Dark+(light'em+Up).mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="rukia_shijie" name="千年血战·一护卍解（墨尘改）" comic_type="0">
+		<file url="assets/fighter/rukia.swf" startFrame="2" />
+		<face url="assets/face/rukia_sj.png" big_url="assets/face/rukia_sj_b.png" bar_url="assets/face/rukia_sj_m.png" win_url="assets/face/rukia_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/Fall+Out+Boy+-+My+Songs+Know+What+You+Did+In+The+Dark+(light'em+Up).mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="renji" name="牛头一护·加强（墨尘改）" comic_type="0">
+		<file url="assets/fighter/renji.swf" startFrame="4" />
+		<face url="assets/face/renji.png" big_url="assets/face/renji_b.png" bar_url="assets/face/renji_m.png" win_url="assets/face/renji_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>命运是轮回的吗?还是伸向前方的? \n 假如,是轮回的话,那就应该把那轮回之环击碎吗?  \n 还是应该逆来顺受呢?</say_item>
+			<say_item>人们之所以能怀抱希望，是因为他们看不见死亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="kenpachi" name="白哉·代理消失卍解（東钼改）" comic_type="0">
+		<file url="assets/fighter/kenpachi.swf" startFrame="2" />
+		<face url="assets/face/kenpachi.png" big_url="assets/face/kenpachi_b.png" bar_url="assets/face/kenpachi_m.png" win_url="assets/face/kenpachi_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>来吧、厮杀吧!</say_item>
+			<say_item>不畏惧死，为的是玩乐死亡。</say_item>
+			<say_item>每舍弃自尊一次，我们就越像是野兽。每扼杀一颗心，我们就远离野兽一步。</say_item>
+		</says>
+		<bgm url="assets/bgm/STYX HELIX.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="jianba_ssdlxs" name="更木·剑八·死神代理消失（東鉬改）" comic_type="0">
+		<file url="assets/fighter/jianba_ssdlxs.swf" startFrame="1" />
+		<face url="assets/face/jianba_ssdlxs.png" big_url="assets/face/jianba_ssdlxs_b.png" bar_url="assets/face/jianba_ssdlxs_m.png" win_url="assets/face/kenpachi_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>来吧、厮杀吧!</say_item>
+			<say_item>不畏惧死，为的是玩乐死亡。</say_item>
+			<say_item>每舍弃自尊一次，我们就越像是野兽。每扼杀一颗心，我们就远离野兽一步。</say_item>
+		</says>
+		<bgm url="assets/bgm/STYX HELIX.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="ikkaku" name="牛头一护·旧（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ikkaku.swf" startFrame="1" />
+		<face url="assets/face/ikkaku.png" big_url="assets/face/ikkaku_b.png" bar_url="assets/face/ikkaku_m.png" win_url="assets/face/ikkaku_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我们每个人，打从出生的那一刻起就要迈向死亡。</say_item>
+			<say_item>无法超越死亡的人，那就必须去理解某些事。</say_item>
+			<say_item>结束总是在开始之前就已经存在了了。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="yin" name="完现术一护·二段（茶与水改）" comic_type="0">
+		<file url="assets/fighter/yin.swf" startFrame="2" />
+		<face url="assets/face/yin.png" big_url="assets/face/yin_b.png" bar_url="assets/face/yin_m.png" win_url="assets/face/yin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我无话可说！</say_item>
+			<say_item>对不起，蓝染队长。</say_item>
+			<say_item>真没办法……</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="yin_dz" name="市丸·银·队长（氺改）" comic_type="0">
+		<file url="assets/fighter/yin_dz.swf" startFrame="1" />
+		<face url="assets/face/yin_dz.png" big_url="assets/face/yin_dz_b.png" bar_url="assets/face/yin_dz_m.png" win_url="assets/face/yin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我无话可说！</say_item>
+			<say_item>对不起，蓝染队长。</say_item>
+			<say_item>真没办法……</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="yin_wj" name="市丸·银·卍解（墨尘改）" comic_type="0">
+		<file url="assets/fighter/yin_wj.swf" startFrame="2" />
+		<face url="assets/face/yin_wanjie.png" big_url="assets/face/yin_wanjie_b.png" bar_url="assets/face/yin_wanjie_m.png" win_url="assets/face/yin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我无话可说！</say_item>
+			<say_item>对不起，蓝染队长。</say_item>
+			<say_item>真没办法……</say_item>
+		</says>
+		<bgm url="assets/bgm/Fall+Out+Boy+-+My+Songs+Know+What+You+Did+In+The+Dark+(light'em+Up).mp3" rate="50" />
+	</fighter>
+
+	<fighter id="chad" name="共刀·一护卍解（東钼改）" comic_type="0">
+		<file url="assets/fighter/chad.swf" startFrame="4" />
+		<face url="assets/face/chad.png" big_url="assets/face/chad_b.png" bar_url="assets/face/chad_m.png" win_url="assets/face/chad_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>如果手上没有剑，我就不能保护你。</say_item>
+			<say_item>如果我一直握着剑，我就无法抱紧你。</say_item>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="uryuu" name="共刀·白一护卍解（東钼改）" comic_type="0">
+		<file url="assets/fighter/uryuu.swf" startFrame="3" />
+		<face url="assets/face/uryuu.png" big_url="assets/face/uryuu_b.png" bar_url="assets/face/uryuu_m.png" win_url="assets/face/uryuu_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我赌上灭却师的骄傲，一定要赢你</say_item>
+			<say_item>不堪一击...</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+<fighter id="uryuu_zero" name="石田·雨龙·零段（氺改）" comic_type="0">
+		<file url="assets/fighter/uryuu_zero.swf" startFrame="1" />
+		<face url="assets/face/uryuu_zero.png" big_url="assets/face/uryuu_zero_b.png" bar_url="assets/face/uryuu_zero_m.png" win_url="assets/face/uryuu_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我赌上灭却师的骄傲，一定要赢你</say_item>
+			<say_item>不堪一击...</say_item>
+		</says>
+		<bgm url="assets/bgm/STYX HELIX.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="uryuu_x" name="石田·雨龙·银岭弧雀（小皮改）" comic_type="0">
+		<file url="assets/fighter/uryuu_x.swf" startFrame="1" />
+		<face url="assets/face/uryuu_x.png" big_url="assets/face/uryuu_x_b.png" bar_url="assets/face/uryuu_x_m.png" win_url="assets/face/uryuu_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我赌上灭却师的骄傲，一定要赢你</say_item>
+			<say_item>不堪一击...</say_item>
+		</says>
+		<bgm url="assets/bgm/STYX HELIX.mp3" rate="95" />
+	</fighter>
+
+        <fighter id="orihime2" name="井上·织姬（渺渺改）" comic_type="0">
+		<file url="assets/fighter/orihime2.swf" startFrame="1" />
+		<face url="assets/face/orihime2.png" big_url="assets/face/orihime_b2.png" bar_url="assets/face/orihime_m.png" win_url="assets/face/orihime_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>如果我是那雨滴的话……那么，我能够像把不曾交会的天空与大地连接起来那样……把某人的心串联起来吗？</say_item>
+			<say_item>如果……我能成为雨的话，是否能像连结永无关联的天空和大地一样，将某人的心也连系起来呢</say_item>
+			<say_item>一举一动，都是承诺，会被另一个人看在眼里，记在心上的。</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="orihime" name="共刀·白一护（東钼改）" comic_type="0">
+		<file url="assets/fighter/orihime.swf" startFrame="2" />
+		<face url="assets/face/orihime.png" big_url="assets/face/orihime_b.png" bar_url="assets/face/orihime_m.png" win_url="assets/face/orihime_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>如果我是那雨滴的话……那么，我能够像把不曾交会的天空与大地连接起来那样……把某人的心串联起来吗？</say_item>
+			<say_item>如果……我能成为雨的话，是否能像连结永无关联的天空和大地一样，将某人的心也连系起来呢</say_item>
+			<say_item>一举一动，都是承诺，会被另一个人看在眼里，记在心上的。</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="toushirou" name="半虚一护·旧（渺渺改）" comic_type="0">
+		<file url="assets/fighter/toushirou.swf" startFrame="1" />
+		<face url="assets/face/toushirou.png" big_url="assets/face/toushirou_b.png" bar_url="assets/face/toushirou_m.png" win_url="assets/face/rfgdsl_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>在强烈的阳光下，印在薄冰之上的足迹消失无踪。 \n 不必害怕被欺骗，这世界原本就建立在假象之上。</say_item>
+			<say_item>不要叫我冬狮郎，是日番谷队长!</say_item>
+			<say_item>还差得远呢！</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="toushirou_wanjie" name="半虚一护·卍解（渺渺改）" comic_type="0">
+		<file url="assets/fighter/toushirou.swf" startFrame="2" />
+		<face url="assets/face/toushirou_wj.png" big_url="assets/face/toushirou_wj_b.png" bar_url="assets/face/toushirou_wj_m.png" win_url="assets/face/rfgdsl_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>在强烈的阳光下，印在薄冰之上的足迹消失无踪。 \n 不必害怕被欺骗，这世界原本就建立在假象之上。</say_item>
+			<say_item>不要叫我冬狮郎，是日番谷队长!</say_item>
+			<say_item>还差得远呢！</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="byakuya" name="朽木·白哉·千年血战（東钼改）" comic_type="0">
+		<file url="assets/fighter/byakuya.swf" startFrame="1" />
+		<face url="assets/face/byakuya.png" big_url="assets/face/byakuya_b.png" bar_url="assets/face/byakuya_m.png" win_url="assets/face/byakuya_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真是迟钝啊。连倒下去都是这样。</say_item>
+			<say_item>喔……真没想到一介平民也能体会贵族的感受啊。</say_item>
+			<say_item>像你这种人，死在我的万解之下，还早了一千年。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="byakuya_wanjie" name="朽木·白哉·千年血战卍解（東钼改）" comic_type="0">
+		<file url="assets/fighter/byakuya.swf" startFrame="2" />
+		<face url="assets/face/byakuya_wj.png" big_url="assets/face/byakuya_wj_b.png" bar_url="assets/face/byakuya_wj_m.png" win_url="assets/face/byakuya_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真是迟钝啊。连倒下去都是这样。</say_item>
+			<say_item>喔……真没想到一介平民也能体会贵族的感受啊。</say_item>
+			<say_item>像你这种人，死在我的万解之下，还早了一千年。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="50" />
+	</fighter>
+
+
+	<fighter id="byakuya_ssdlxs" name="朽木·白哉·死神代理消失（東鉬改）" comic_type="0">
+		<file url="assets/fighter/byakuya_ssdlxs.swf" startFrame="1" />
+		<face url="assets/face/byakuya_ssdlxs.png" big_url="assets/face/byakuya_ssdlxs_b.png" bar_url="assets/face/byakuya_ssdlxs_m.png" win_url="assets/face/byakuya_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真是迟钝啊。连倒下去都是这样。</say_item>
+			<say_item>喔……真没想到一介平民也能体会贵族的感受啊。</say_item>
+			<say_item>像你这种人，死在我的万解之下，还早了一千年。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="grimmjow" name="葛力姆乔·贾卡杰克（茶与水&墨尘改）" comic_type="0">
+		<file url="assets/fighter/grimmjow.swf" startFrame="1" />
+		<face url="assets/face/grimmjow.png" big_url="assets/face/grimmjow_b.png" bar_url="assets/face/grimmjow_m.png" win_url="assets/face/grimmjow_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="shinji" name="平子·真子（氺改）" comic_type="0">
+		<file url="assets/fighter/shinji.swf" startFrame="1" />
+		<face url="assets/face/shinji.png" big_url="assets/face/shinji_b.png" bar_url="assets/face/shinji_m.png" win_url="assets/face/pzzz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/bleach.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="soifon" name="碎蜂（氺改）" comic_type="0">
+		<file url="assets/fighter/soifon.swf" startFrame="1" />
+		<face url="assets/face/soifon.png" big_url="assets/face/soifon_b.png" bar_url="assets/face/soifon_m.png" win_url="assets/face/soifong_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/soifon.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="ulquiorra" name="乌尔奇奥拉（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ulquiorra.swf" startFrame="1" />
+		<face url="assets/face/ulquiorra.png" big_url="assets/face/ulquiorra_b.png" bar_url="assets/face/ulquiorra_m.png" win_url="assets/face/ulquiorra_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="ulquiorra_guiren" name="乌尔奇奥拉·归刃（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ulquiorra.swf" startFrame="2" />
+		<face url="assets/face/ulquiorra_gr.png" big_url="assets/face/ulquiorra_gr_b.png" bar_url="assets/face/ulquiorra_gr_m.png" win_url="assets/face/ulquiorra_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="ulquiorra_guiren2" name="乌尔奇奥拉·二段归刃（墨尘改）" comic_type="0">
+		<file url="assets/fighter/ulquiorra_guiren2.swf" startFrame="3" />
+		<face url="assets/face/ulquiorra_gr2.png" big_url="assets/face/ulquiorra_gr2_b.png" bar_url="assets/face/ulquiorra_gr2_m.png" win_url="assets/face/ulquiorra_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>太阳已经被我们击落了。</say_item>
+			<say_item>没有什么是我看不到的。</say_item>
+			<say_item>人类，真是到最后，也出人意料的生物。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="aizen" name="蓝染·惣右介旧（墨尘改）" comic_type="0">
+		<file url="assets/fighter/aizen.swf" startFrame="1" />
+		<face url="assets/face/aizen.png" big_url="assets/face/aizen_b.png" bar_url="assets/face/aizen_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+     <fighter id="aizen_dz" name="蓝染·惣右介·队长（墨尘改）" comic_type="0">
+		<file url="assets/fighter/aizen_dz.swf" startFrame="1" />
+		<face url="assets/face/aizen_dz.png" big_url="assets/face/aizen_dz_b.png" bar_url="assets/face/aizen_dz_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+<fighter id="aizen_fy" name="蓝染·惣右介·封印（墨尘改）" comic_type="0">
+		<file url="assets/fighter/aizen_fy.swf" startFrame="1" />
+		<face url="assets/face/aizen_fy.png" big_url="assets/face/aizen_fy_b.png" bar_url="assets/face/aizen_fy_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="lamando" name="蓝染·惣右介·凌渡" comic_type="0">
+		<file url="assets/fighter/lamando.swf" startFrame="1" />
+		<face url="assets/face/lamando.png" big_url="assets/face/aizen_b.png" bar_url="assets/face/aizen_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>你是什么时候产生了你能打赢我的错觉的？</say_item>
+			<say_item>一个人到底为了心中的正义能付出多少？</say_item>
+			<say_item>我不是一个追金逐利的人。</say_item>
+		</says>
+		<bgm url="assets/bgm/カスタマイZ (customi-z) - COOLEST.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="aizen_ultimate" name="蓝染·惣右介·镜花水月（氺改）" comic_type="0">
+		<file url="assets/fighter/aizen_ultimate.swf" startFrame="1" />
+		<face url="assets/face/aizen_ultimate.png" big_url="assets/face/aizen_ultimate_b.png" bar_url="assets/face/aizen_ultimate_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>ss
+		<says>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="60" />
+	</fighter>
+
+	<fighter id="aizen_26" name="蓝染·惣右介（渺渺改）" comic_type="0">
+		<file url="assets/fighter/aizen26.swf" startFrame="1" />
+		<face url="assets/face/aizen26.png" big_url="assets/face/aizen26_b.png" bar_url="assets/face/aizen26_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>ss
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="60" />
+	</fighter>
+
+	<fighter id="aizen_mochen" name="蓝染·惣右介（墨尘改）" comic_type="0">
+		<file url="assets/fighter/崩蓝.swf" startFrame="1" />
+		<face url="assets/face/aizen_mochen.png" big_url="assets/face/aizen_b.png" bar_url="assets/face/aizen_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="aizen_b" name="蓝染·惣右介·崩玉（墨尘改）" comic_type="0">
+		<file url="assets/fighter/崩蓝.swf" startFrame="2" />
+		<face url="assets/face/aizen_b1.png" big_url="assets/face/aizen_b_b.png" bar_url="assets/face/aizen_b_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/Ash2.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="aizen_b2" name="蓝染·惣右介·崩玉二段（墨尘改）" comic_type="0">
+		<file url="assets/fighter/aizen_b.swf" startFrame="2" />
+		<face url="assets/face/aizen_b2.png" big_url="assets/face/aizen_b2_b.png" bar_url="assets/face/aizen_b2_m.png" win_url="assets/face/aizen_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界在最初并没有真实,也没有谎言,只有俨然存在的事实,可是,存在于这个世界的所有事物,只会将对自己有利的事实误认为真实而活</say_item>
+			<say_item>别要求战斗应该具备美学,别要求死亡必须遵从美德,别只顾成全一己性命,如果想守护那值得守护的事物,就从背后斩杀那应该斩杀的敌人</say_item>
+			<say_item>与实力并不相称的生命力也是一种浪费啊</say_item>
+			<say_item>不能批判死者</say_item>
+			<say_item>像你这样的水准,我不准你再次对我刀刃相向.</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="60" />
+	</fighter>
+	
+	<fighter id="mayuri" name="天锁斩月·蓝（茶与水改）" comic_type="0">
+		<file url="assets/fighter/mayuri.swf" startFrame="1" />
+		<face url="assets/face/mayuri.png" big_url="assets/face/mayuri_b.png" bar_url="assets/face/mayuri_m.png" win_url="assets/face/mayuri_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我已经对你没兴趣了，闪一变去。</say_item>
+			<say_item>哎呀哎呀，浪费了我这么多时间。</say_item>
+			<say_item>药物每天8次，机器实验就每天5次吧，而改造我也会尽量避免把你搞死。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="tousen_dz" name="东仙要·队长（氺改）" comic_type="0">
+		<file url="assets/fighter/tousen_dz.swf" startFrame="1" />
+		<face url="assets/face/tousen_dz.png" big_url="assets/face/tousen_dz_b.png" bar_url="assets/face/tousen_dz_m.png" win_url="assets/face/dxy_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="70" />
+	</fighter>
+	<!-- ====================   上死神            分界线             下火影          ================================================================================= -->
+	
+	<fighter id="kira11" name="吉良·伊鹤（腐竹改）" comic_type="0">
+		<file url="assets/fighter/kira.swf" startFrame="1" />
+		<face url="assets/face/kira.png" big_url="assets/face/kira_b.png" bar_url="assets/face/kira_m.png" win_url="assets/face/naruto_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/川井憲次 - FIGHT.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="naruto11" name="漩涡·鸣人" comic_type="1">
+		<file url="assets/fighter/naruto11.swf" startFrame="1" />
+		<face url="assets/face/naruto11.png" big_url="assets/face/naruto11_b.png" bar_url="assets/face/naruto11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/minren.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="naruto_yw11" name="漩涡·鸣人·一尾" comic_type="1">
+		<file url="assets/fighter/naruto11.swf" startFrame="2" />
+		<face url="assets/face/naruto_yw11.png" big_url="assets/face/naruto_yw11_b.png" bar_url="assets/face/naruto_yw11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/minren.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="naruto_sw11" name="漩涡·鸣人·四尾" comic_type="1">
+		<file url="assets/fighter/naruto11.swf" startFrame="3" />
+		<face url="assets/face/naruto_sw11.png" big_url="assets/face/naruto_sw11_b.png" bar_url="assets/face/naruto_sw11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/minren.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="itachi11" name="宇智波·鼬" comic_type="1">
+		<file url="assets/fighter/itachi11.swf" startFrame="1" />
+		<face url="assets/face/itachi11.png" big_url="assets/face/itachi11_b.png" bar_url="assets/face/itachi11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>优秀也是有烦恼的...</say_item>
+			<say_item>人类就是这样，自以为自己知道了什么，就否定了自己不知道的东西，只会局限在自己的知识范围内自以为是...</say_item>
+			<say_item>只要是人，都是依靠自己的知识与认知并且也被之束缚生活着的，那就叫做现实。但是，知识与认知是暧昧不清的东西，现实也许只是镜花水月。</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="jiraiya11" name="自来也" comic_type="1">
+		<file url="assets/fighter/jiraiya11.swf" startFrame="1" />
+		<face url="assets/face/jiraiya11.png" big_url="assets/face/jiraiya11_b.png" bar_url="assets/face/jiraiya11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不分东南西北，整个天下都是无人能敌的三忍白发童子蛤蟆使者。</say_item>
+			<say_item>对于忍者而言怎样活着无所谓，怎样死去才是最重要的。</say_item>
+			<say_item>忍者指的是能忍耐的人</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="orochimaru11" name="大蛇丸" comic_type="1">
+		<file url="assets/fighter/orochimaru11.swf" startFrame="1" />
+		<face url="assets/face/orochimaru11.png" big_url="assets/face/orochimaru11_b.png" bar_url="assets/face/orochimaru11_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>条约只是让对手麻痹的伪装，从现在开始历史将被改写</say_item>
+			<say_item>有形的东西迟早会毁灭，无形的东西才会永恒！</say_item>
+			<say_item>肉体的生命太短暂,太无常</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+	
+       <fighter id="peien" name="六道·佩恩（3.3）" comic_type="1">
+		<file url="assets/fighter/佩恩.swf" startFrame="1" />
+		<face url="assets/face/peien.png" big_url="assets/face/peien_b.png" bar_url="assets/face/peien_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>光是战斗根本没有意思 只是活下去也没有意义。</say_item>
+			<say_item>我也不知道为什么，总之很爽就是了!</say_item>
+			<say_item>正因为我们看不见，那才可怕。</say_item>
+		</says>
+		<bgm url="assets/bgm/bleachboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="naruto_ww" name="宇智波斑" comic_type="1">
+		<file url="assets/fighter/naruto_ww.swf" startFrame="1" />
+		<face url="assets/face/naruto_ww.png" big_url="assets/face/naruto_ww_b.png" bar_url="assets/face/naruto_ww_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="naruto" name="漩涡·加强（小皮改）" comic_type="1">
+		<file url="assets/fighter/narut.swf" startFrame="1" />
+		<face url="assets/face/naruto.png" big_url="assets/face/naruto_b.png" bar_url="assets/face/naruto_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/minren.mp3" rate="50" />
+	</fighter>
+	
+	
+	<fighter id="naruto_yw" name="漩涡·鸣人·一尾加强（小皮改）" comic_type="1">
+		<file url="assets/fighter/narut.swf" startFrame="2" />
+		<face url="assets/face/naruto_yw.png" big_url="assets/face/naruto_yw_b.png" bar_url="assets/face/naruto_yw_m.png" win_url="assets/face/naruto_yw_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="naruto_sw" name="漩涡·鸣人·四尾加强（小皮改）" comic_type="1">
+		<file url="assets/fighter/narut.swf" startFrame="3" />
+		<face url="assets/face/naruto_sw.png" big_url="assets/face/naruto_sw_b.png" bar_url="assets/face/naruto_sw_m.png" win_url="assets/face/naruto_yw_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="naruto_lw" name="漩涡·鸣人·六尾（残殇改）" comic_type="1">
+		<file url="assets/fighter/narutolw.swf" startFrame="4" />
+		<face url="assets/face/naruto_lw.png" big_url="assets/face/naruto_lw_b.png" bar_url="assets/face/naruto_lw_m.png" win_url="assets/face/naruto_yw_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="naruto_new" name="漩涡·鸣人·蕉忍疾风传（沃特水改）" comic_type="1">
+		<file url="assets/fighter/naruto_new.swf" startFrame="1" />
+		<face url="assets/face/naruto_new.png" big_url="assets/face/naruto_new_b.png" bar_url="assets/face/naruto_new_m.png" win_url="assets/face/naruto_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="50" />
+	</fighter>
+
+     <fighter id="naruto_qd" name="漩涡·鸣人·七代目（炫光改）" comic_type="1">
+		<file url="assets/fighter/naruto_qd.swf" startFrame="1" />
+		<face url="assets/face/naruto_qd.png" big_url="assets/face/naruto_qd_b.png" bar_url="assets/face/naruto_qd_m.png" win_url="assets/face/naruto_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Igniz.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="sakura" name="春野·樱" comic_type="1">
+		<file url="assets/fighter/sakura.swf" startFrame="1" />
+		<face url="assets/face/sakura.png" big_url="assets/face/sakura_b.png" bar_url="assets/face/sakura_m.png" win_url="assets/face/sakura_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我每次都受到其他人的保护，好不甘心哦...既然如此，这次...必须有我来保护我所珍惜的人们了......</say_item>
+			<say_item>我每次……都希望自己能够成为一个厉害的忍者……</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="lazz" name="轮回眼·佐助旧（墨尘改）" comic_type="1">
+		<file url="assets/fighter/佐助 LA.swf" startFrame="1" />
+		<face url="assets/face/lazz.png" big_url="assets/face/lazz_b.png" bar_url="assets/face/lazz_m.png" win_url="assets/face/sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="sasuke" name="宇智波·佐助·疾风传" comic_type="1">
+		<file url="assets/fighter/sasuke.swf" startFrame="1" />
+		<face url="assets/face/sasuke.png" big_url="assets/face/sasuke_b.png" bar_url="assets/face/sasuke_m.png" win_url="assets/face/sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="sasuke_first" name="宇智波·佐助（茶与水改）" comic_type="1">
+		<file url="assets/fighter/sasuke_first.swf" startFrame="1" />
+		<face url="assets/face/sasuke_first.png" big_url="assets/face/sasuke_first_b.png" bar_url="assets/face/sasuke_first_m.png" win_url="assets/face/sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="sasuke_zy" name="宇智波·佐助·咒怨" comic_type="1">
+		<file url="assets/fighter/sasuke.swf" startFrame="2" />
+		<face url="assets/face/sasuke_zy.png" big_url="assets/face/sasuke_zy_b.png" bar_url="assets/face/sasuke_zy_m.png" win_url="assets/face/sasuke_zy_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="gay" name="宇智波·佐助·鹰（残殇改）" comic_type="1">
+		<file url="assets/fighter/gay.swf" startFrame="1" />
+		<face url="assets/face/gay.png" big_url="assets/face/gay_b.png" bar_url="assets/face/gay_m.png" win_url="assets/face/sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+        
+        <fighter id="sasuke_xiao" name="宇智波·佐助·晓（墨尘改）" comic_type="1">
+		<file url="assets/fighter/sasuke_xiao.swf" startFrame="1" />
+		<face url="assets/face/sasuke_xiao.png" big_url="assets/face/sasuke_xiao_b.png" bar_url="assets/face/sasuke_xiao_m.png" win_url="assets/face/sasuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="sasukexz" name="宇智波·佐助·须佐能乎·旧版" comic_type="1">
+		<file url="assets/fighter/sasukexz.swf" startFrame="1" />
+		<face url="assets/face/sasukexz.png" big_url="assets/face/sasukexz_b.png" bar_url="assets/face/sasukexz_m.png" win_url="sasuke_xz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="sasuke_xz" name="宇智波·佐助·须佐能乎" comic_type="1">
+		<file url="assets/fighter/sasuke_xz.swf" startFrame="1" />
+		<face url="assets/face/sasuke_xz.png" big_url="assets/face/sasuke_xz_b.png" bar_url="assets/face/sasuke_xz_m.png" win_url="sasuke_xz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/Igniz.mp3" rate="70" />
+	</fighter>
+
+       <fighter id="sasuke_lhy" name="宇智波·佐助·轮回眼（茶与水炫光改）" comic_type="1">
+		<file url="assets/fighter/sasuke_lhy.swf" startFrame="1" />
+		<face url="assets/face/sasuke_lhy.png" big_url="assets/face/sasuke_lhy_b.png" bar_url="assets/face/sasuke_lhy_m.png" win_url="sasuke_xz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="sasuke_lh" name="宇智波·佐助·六勾轮回眼（墨尘改）" comic_type="1">
+		<file url="assets/fighter/sasuke_lh.swf" startFrame="1" />
+		<face url="assets/face/sasuke_lh.png" big_url="assets/face/sasuke_lh_b.png" bar_url="assets/face/sasuke_lh_m.png" win_url="sasuke_xz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/Igniz.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="yhwhtxly" name="佐助·永恒万花筒写轮眼（墨尘改）" comic_type="1">
+		<file url="assets/fighter/yhwhtxly.swf" startFrame="1" />
+		<face url="assets/face/yhwhtxly.png" big_url="assets/face/yhwhtxly2.png" bar_url="assets/face/yhwhtxly3.png" win_url="sasuke_xz_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>羁绊太多，只会迷失自我。</say_item>
+			<say_item>孤独，不是被父母责备后难过的那种程度比得上的。</say_item>
+			<say_item>我是个复仇者，我是为复仇而生的，为了复仇我可以放弃一切。</say_item>
+		</says>
+		<bgm url="assets/bgm/Igniz.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="karin" name="香磷" comic_type="1">
+		<file url="assets/fighter/karin.swf" startFrame="1" />
+		<face url="assets/face/karin.png" big_url="assets/face/karin_b.png" bar_url="assets/face/karin_m.png" win_url="karin_w" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>佐助，人家想和佐助两个人......</say_item>
+			<say_item>真想再看一次他那时的面庞</say_item>
+			<say_item>佐助，你在哪里？等等我......</say_item>
+		</says>
+		<bgm url="assets/bgm/sasuke.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="juggo" name="天秤·重吾" comic_type="1">
+		<file url="assets/fighter/juggo.swf" startFrame="1" />
+		<face url="assets/face/juggo.png" big_url="assets/face/juggo_b.png" bar_url="assets/face/juggo_m.png" win_url="assets/face/juggo_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+			<say_item>哈哈哈哈哈哈</say_item>
+			<say_item>我不会再失控了。</say_item>
+		</says>
+		<bgm url="assets/bgm/RURUTIA (ルルティア) - 深蓝.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="shuiyue" name="鬼灯·水月（虚无改）" comic_type="1">
+		<file url="assets/fighter/shuiyue.swf" startFrame="1" />
+		<face url="assets/face/shuiyue.png" big_url="assets/face/shuiyue_b.png" bar_url="assets/face/shuiyue_m.png" win_url="assets/face/shuiyue_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>把你杀了吧，反正应该不能和你好好相处。</say_item>
+			<say_item>把你杀了吧，反正应该不能和你好好相处。</say_item>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/RURUTIA (ルルティア) - 深蓝.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="itachi_cz" name="宇智波·鼬（茶与水改）" comic_type="1">
+		<file url="assets/fighter/itachi_cz.swf" startFrame="1" />
+		<face url="assets/face/itachi_cz.png" big_url="assets/face/itachi_cz_b.png" bar_url="assets/face/itachi_cz_m.png" win_url="assets/face/itachi_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>优秀也是有烦恼的...</say_item>
+			<say_item>人类就是这样，自以为自己知道了什么，就否定了自己不知道的东西，只会局限在自己的知识范围内自以为是...</say_item>
+			<say_item>只要是人，都是依靠自己的知识与认知并且也被之束缚生活着的，那就叫做现实。但是，知识与认知是暧昧不清的东西，现实也许只是镜花水月。</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="itachi" name="宇智波·鼬·前期（東鉬改）" comic_type="1">
+		<file url="assets/fighter/须佐鼬.swf" startFrame="1" />
+		<face url="assets/face/itachi.png" big_url="assets/face/itachi_b.png" bar_url="assets/face/itachi_m.png"  win_url="assets/face/itachi_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>优秀也是有烦恼的...</say_item>
+			<say_item>人类就是这样，自以为自己知道了什么，就否定了自己不知道的东西，只会局限在自己的知识范围内自以为是...</say_item>
+			<say_item>只要是人，都是依靠自己的知识与认知并且也被之束缚生活着的，那就叫做现实。但是，知识与认知是暧昧不清的东西，现实也许只是镜花水月。</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="itachix" name="宇智波·鼬(旧版)" comic_type="1">
+		<file url="assets/fighter/itachix.swf" startFrame="1" />
+		<face url="assets/face/itachix.png" big_url="assets/face/itachix_b.png" bar_url="assets/face/itachix_m.png"  win_url="assets/face/itachi_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>优秀也是有烦恼的...</say_item>
+			<say_item>人类就是这样，自以为自己知道了什么，就否定了自己不知道的东西，只会局限在自己的知识范围内自以为是...</say_item>
+			<say_item>只要是人，都是依靠自己的知识与认知并且也被之束缚生活着的，那就叫做现实。但是，知识与认知是暧昧不清的东西，现实也许只是镜花水月。</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+
+
+	<fighter id="itachi_ht" name="宇智波·鼬·秽土转生（墨尘改）" comic_type="1">
+		<file url="assets/fighter/itachi_ht.swf" startFrame="1" />
+		<face url="assets/face/itachi_ht.png" big_url="assets/face/itachi_ht_b.png" bar_url="assets/face/itachi_ht_m.png"  win_url="assets/face/itachi_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>优秀也是有烦恼的...</say_item>
+			<say_item>人类就是这样，自以为自己知道了什么，就否定了自己不知道的东西，只会局限在自己的知识范围内自以为是...</say_item>
+			<say_item>只要是人，都是依靠自己的知识与认知并且也被之束缚生活着的，那就叫做现实。但是，知识与认知是暧昧不清的东西，现实也许只是镜花水月。</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="zhishui" name="宇智波·止水（残殇，鬼泣改）" comic_type="1">
+		<file url="assets/fighter/zhishui.swf" startFrame="1" />
+		<face url="assets/face/zhishui.png" big_url="assets/face/zhishui_b.png" bar_url="assets/face/zhishui_m.png"  win_url="assets/face/zhishui_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>背负着特殊的使命才让我如此强大</say_item>
+			<say_item>因为你太擅长自欺欺人了，所以察觉不到自己的真心。</say_item>
+			<say_item>但是，有一件事无需质疑，那就是，我永远不会背叛你。</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="75" />
+	</fighter>
+	
+	<fighter id="didala" name="迪达拉" comic_type="1">
+		<file url="assets/fighter/didala.swf" startFrame="1" />
+		<face url="assets/face/didala.png" big_url="assets/face/didala_b.png" bar_url="assets/face/didala_m.png"win_url="assets/face/didala_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>艺术就是爆炸!嗯。</say_item>
+			<say_item>我的忍术全都是艺术！嗯。</say_item>
+			<say_item>艺术是美丽而短暂的，消失那一瞬间才称为美丽，嗯。</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="jwwqt" name="漩涡·鸣人·九尾完全体（墨尘改）" comic_type="1">
+		<file url="assets/fighter/jiuweiwanquantimingren.swf" startFrame="1" />
+		<face url="assets/face/jwwqtmr.png" big_url="assets/face/jwwqtmr2.png" bar_url="assets/face/naruto_ww_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="jiouwei" name="少年·鸣人（土拨鼠的尖叫改）" comic_type="1">
+		<file url="assets/fighter/jiouwei.swf" startFrame="1" />
+		<face url="assets/face/jiouwei.png" big_url="assets/face/jiouwei_b.png" bar_url="assets/face/jiouwei_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>啊啊啊啊啊啊啊</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="kakashi2" name="旗木卡卡西·万花筒写轮眼（東鉬改）" comic_type="1">
+		<file url="assets/fighter/kakaxiwhtxly.swf" startFrame="1" />
+		<face url="assets/face/kakashi2.png" big_url="assets/face/kakashi22.png" bar_url="assets/face/kakashi23.png" win_url="assets/face/kakashi_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>忍者是不能按常理来思考的！</say_item>
+			<say_item>放心吧，就算死我也会保护你们的，我绝对不让我的同伴被杀。</say_item>
+			<say_item>以现在的你是赢不了我的，你根本不明白什么是真正的强大！</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="kakashi" name="旗木·卡卡西" comic_type="1">
+		<file url="assets/fighter/kakashi.swf" startFrame="1" />
+		<face url="assets/face/kakashi.png" big_url="assets/face/kakashi_b.png" bar_url="assets/face/kakashi_m.png" win_url="assets/face/kakashi_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>忍者是不能按常理来思考的！</say_item>
+			<say_item>放心吧，就算死我也会保护你们的，我绝对不让我的同伴被杀。</say_item>
+			<say_item>以现在的你是赢不了我的，你根本不明白什么是真正的强大！</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="kakashi_sw" name="卡卡西·神威" comic_type="1">
+		<file url="assets/fighter/kakashi_sw.swf" startFrame="1" />
+		<face url="assets/face/kakashi_sw.png" big_url="assets/face/kakashi_sw_b.png" bar_url="assets/face/kakashi_sw_m.png"win_url="assets/face/kakashi_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>摘下面罩之后的我真是无法直视的帅气。</say_item>
+			<say_item>放心吧，就算死我也会保护你们的，我绝对不让我的同伴被杀。</say_item>
+			<say_item>以现在的你是赢不了我的，你根本不明白什么是真正的强大！</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="75" />
+	</fighter>
+
+	<fighter id="lee" name="李·洛克" comic_type="1">
+		<file url="assets/fighter/lee.swf" startFrame="1" />
+		<face url="assets/face/lee.png" big_url="assets/face/lee_b.png" bar_url="assets/face/lee_m.png" win_url="assets/face/lee_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我是木叶美丽的青色之兽、李洛克</say_item>
+			<say_item>现在就是我贯彻我的忍道的时候了！</say_item>
+			<say_item>我要证明就算不会用体术或幻术也能成为一个了不起的忍者！</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="leex" name="李·洛克·杜门开" comic_type="1">
+		<file url="assets/fighter/lee.swf" startFrame="2" />
+		<face url="assets/face/leex.png" big_url="assets/face/leex_b.png" bar_url="assets/face/leex_m.png" win_url="assets/face/lee_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我是木叶美丽的青色之兽、李洛克</say_item>
+			<say_item>现在就是我贯彻我的忍道的时候了！</say_item>
+			<say_item>我要证明就算不会用体术或幻术也能成为一个了不起的忍者！</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="lee_bm" name="李·洛克·杜门（鬼泣改）" comic_type="1">
+		<file url="assets/fighter/lee_bm.swf" startFrame="1" />
+		<face url="assets/face/lee_bm.png" big_url="assets/face/lee_bm_b.png" bar_url="assets/face/lee_bm_m.png" win_url="assets/face/lee_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>Ko No 洛克李 Da！！！！</say_item>
+			<say_item>现在就是我贯彻我的忍道的时候了！</say_item>
+			<say_item>我要证明就算不会用体术或幻术也能成为一个了不起的忍者！</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="neji" name="日向·宁次" comic_type="1">
+		<file url="assets/fighter/neji.swf" startFrame="1" />
+		<face url="assets/face/neji.png" big_url="assets/face/neji_b.png" bar_url="assets/face/neji_m.png" win_url="assets/face/neji_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我从来都不认为——上忍就是终点！</say_item>
+			<say_item>人的命运，是从一出生就被注定了。</say_item>
+			<say_item>命运，从对手是我的那一刻开始便被决定了。</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="chutian" name="日向·雏田（残殇改）" comic_type="1">
+		<file url="assets/fighter/chutian.swf" startFrame="1" />
+		<face url="assets/face/hinata.png" big_url="assets/face/hinata_b.png" bar_url="assets/face/chutian_m.png" win_url="assets/face/chutian_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。</say_item>
+			<say_item>正因为不完美，正因为有失败，才能再次坚强地站起来面对，我认为这种坚强才是真正的强大。</say_item>
+			<say_item>人不是十全十美的...所以...一个人因为遭遇失败，才会拥有从那里再站起来的强悍...</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="luwan" name="奈良·鹿丸（影改）" comic_type="1">
+		<file url="assets/fighter/luwan.swf" startFrame="1" />
+		<face url="assets/face/luwan.png" big_url="assets/face/luwan_b.png" bar_url="assets/face/luwan_m.png" win_url="assets/face/Shikamaru_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>真麻烦。</say_item>
+			<say_item>真麻烦。</say_item>
+			<say_item>真麻烦。</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="gaara" name="沙暴·我爱罗" comic_type="1">
+		<file url="assets/fighter/gaara.swf" startFrame="1" />
+		<face url="assets/face/gaara.png" big_url="assets/face/gaara_b.png" bar_url="assets/face/gaara_m.png" win_url="assets/face/gaara_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>就只有这样而已吗?</say_item>
+			<say_item>这里的一切都将消失。</say_item>
+			<say_item>真是无聊的任务。</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="temari" name="手鞠" comic_type="1">
+		<file url="assets/fighter/temari.swf" startFrame="1" />
+		<face url="assets/face/souju.png" big_url="assets/face/temari_b.png" bar_url="assets/face/temari_m.png" win_url="assets/face/temari_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>笨蛋!</say_item>
+			<say_item>哼！不堪一击！</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="50" />
+	</fighter>
+		
+	<fighter id="temari_ym" name="手鞠（雨幕改）" comic_type="1">
+		<file url="assets/fighter/temari_ym.swf" startFrame="1" />
+		<face url="assets/face/temari.png" big_url="assets/face/temari_b.png" bar_url="assets/face/temari_m.png" win_url="assets/face/temari_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>笨蛋!</say_item>
+			<say_item>哼！不堪一击！</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="jiraiya" name="波风·水门·旧（東钼改）" comic_type="1">
+		<file url="assets/fighter/jiraiya.swf" startFrame="1" />
+		<face url="assets/face/jiraiya.png" big_url="assets/face/jiraiya_b.png" bar_url="assets/face/jiraiya_m.png" win_url="assets/face/jiraiya_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不分东南西北，整个天下都是无人能敌的三忍白发童子蛤蟆使者。</say_item>
+			<say_item>对于忍者而言怎样活着无所谓，怎样死去才是最重要的。</say_item>
+			<say_item>忍者指的是能忍耐的人</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="jiraiya_xr" name="自来也·仙人（炫光改）" comic_type="1">
+		<file url="assets/fighter/jiraiya_xr.swf" startFrame="1" />
+		<face url="assets/face/jiraiya_xr.png" big_url="assets/face/jiraiya_xr_b.png" bar_url="assets/face/jiraiya_xr_m.png" win_url="assets/face/jiraiya_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不分东南西北，整个天下都是无人能敌的三忍白发童子蛤蟆使者。</say_item>
+			<say_item>对于忍者而言怎样活着无所谓，怎样死去才是最重要的。</say_item>
+			<say_item>忍者指的是能忍耐的人</say_item>
+		</says>
+		<bgm url="assets/bgm/naruto.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="orochimaru" name="辉夜·君麻吕（诺贝尔的梓猫改）" comic_type="1">
+		<file url="assets/fighter/orochimaru.swf" startFrame="1" />
+		<face url="assets/face/orochimaru.png" big_url="assets/face/orochimaru_b.png" bar_url="assets/face/orochimaru_m.png" win_url="assets/face/orochimaru_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>条约只是让对手麻痹的伪装，从现在开始历史将被改写</say_item>
+			<say_item>有形的东西迟早会毁灭，无形的东西才会永恒！</say_item>
+			<say_item>肉体的生命太短暂,太无常</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+	
+        <fighter id="mjn" name="面具男（東鉬改）" comic_type="1">
+		<file url="assets/fighter/神秘面具男.swf" startFrame="1" />
+		<face url="assets/face/ob.png" big_url="assets/face/ob_b.png" bar_url="assets/face/ob.png" win_url="assets/face/obito_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>世间一切与我融为一体，我将成为一统所有的完全体。</say_item>
+			<say_item>神话是仿效事实被传承的。</say_item>
+			<say_item>要控制别人，就要学会利用其内心黑暗的技巧。</say_item>
+		</says>
+		<bgm url="assets/bgm/bye bye beautiful.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="madara" name="面具男·旋涡" comic_type="1">
+		<file url="assets/fighter/madara.swf" startFrame="1" />
+		<face url="assets/face/madara.png" big_url="assets/face/madara_b.png" bar_url="assets/face/madara_m.png" win_url="assets/face/madara_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>现在的我没有力量，换句话说，现在的我只是一具躯壳罢了。</say_item>
+			<say_item>世间的一切与我融为一体，我将成为一统所有的完全体。</say_item>
+			<say_item>神话是仿效事实被传承的。</say_item>
+			<say_item>一切攻击对我宇智波斑是没用的。</say_item>
+			<say_item>好吧，第四次忍界大战，我在此向你们宣战！</say_item>
+			<say_item>要控制别人，就要学会利用其内心黑暗的技巧。</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="100" />
+	</fighter>
+
+        <fighter id="ban" name="宇智波·斑（墨尘改）" comic_type="1">
+		<file url="assets/fighter/ban2.swf" startFrame="1" />
+		<face url="assets/face/ban.png" big_url="assets/face/ban_b.png" bar_url="assets/face/ban_m.png" win_url="assets/face/madara_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>世间一切与我融为一体，我将成为一统所有的完全体。</say_item>
+			<say_item>神话是仿效事实被传承的。</say_item>
+			<say_item>要控制别人，就要学会利用其内心黑暗的技巧。</say_item>
+		</says>
+		<bgm url="assets/bgm/老太婆BGM.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="ban_ld" name="宇智波·斑·六道（墨尘改）" comic_type="1">
+		<file url="assets/fighter/ban2.swf" startFrame="2" />
+		<face url="assets/face/ban_ld.png" big_url="assets/face/ban_ld_b.png" bar_url="assets/face/ban_ld_m.png" win_url="assets/face/madara_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>世间一切与我融为一体，我将成为一统所有的完全体。</say_item>
+			<say_item>神话是仿效事实被传承的。</say_item>
+			<say_item>要控制别人，就要学会利用其内心黑暗的技巧。</say_item>
+		</says>
+		<bgm url="assets/bgm/老太婆BGM.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="killerbee" name="奇拉比" comic_type="1">
+		<file url="assets/fighter/killerbee.swf" startFrame="1" />
+		<face url="assets/face/killerbee.png" big_url="assets/face/killerbee_b.png" bar_url="assets/face/killerbee_m.png" win_url="assets/face/killerbee_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>你这笨蛋，你这混蛋！</say_item>
+			<say_item>哟！本大爷是最强的！哟！</say_item>
+			<say_item>哟！你这笨蛋，你这混蛋！哟！......</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="pain" name="佩恩·天道（L改）" comic_type="1">
+		<file url="assets/fighter/新佩恩.swf" startFrame="1" />
+		<face url="assets/face/pain.png" big_url="assets/face/pain_b.png" bar_url="assets/face/pain_m.png" win_url="assets/face/pain_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>若不知晓相同的痛楚，就无法真正理解他人，而且就算能够理解，也不可能相互体谅，这就是不变的道理。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>	
+
+	<fighter id="pain2" name="佩恩·天道·旧" comic_type="1">
+		<file url="assets/fighter/pain.swf" startFrame="1" />
+		<face url="assets/face/pain2.png" big_url="assets/face/pain2_b.png" bar_url="assets/face/pain2_m.png" win_url="assets/face/pain_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>若不知晓相同的痛楚，就无法真正理解他人，而且就算能够理解，也不可能相互体谅，这就是不变的道理。</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>	
+
+	<fighter id="konan" name="小南" comic_type="1">
+		<file url="assets/fighter/konan.swf" startFrame="1" />
+		<face url="assets/face/konan.png" big_url="assets/face/konan_b.png" bar_url="assets/face/konan_m.png" win_url="assets/face/konan_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/shandong.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="feiduan" name="飞段（残殇改）" comic_type="1">
+		<file url="assets/fighter/feiduan.swf" startFrame="1" />
+		<face url="assets/face/feiduan.png" big_url="assets/face/feiduan_b.png" bar_url="assets/face/feiduan_m.png" win_url="assets/face/feiduan_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/病名は愛だった.mp3" rate="50" />
+	</fighter>
+		
+	<fighter id="feiduan2" name="飞段·死司凭血（残殇改）" comic_type="1">
+		<file url="assets/fighter/feiduan.swf" startFrame="2" />
+		<face url="assets/face/feiduan2.png" big_url="assets/face/feiduan2_b.png" bar_url="assets/face/feiduan2_m.png" win_url="assets/face/feiduan_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>...</say_item>
+		</says>
+		<bgm url="assets/bgm/SNKプレイモア - Tranquilizer.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="naruto_xianren" name="漩涡·鸣人·仙人" comic_type="1">
+		<file url="assets/fighter/naruto_xr.swf" startFrame="1" />
+		<face url="assets/face/naruto_xr.png" big_url="assets/face/naruto_xr_b.png" bar_url="assets/face/naruto_xr_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="naruto_xianren2" name="漩涡·鸣人·仙人（東鉬改）" comic_type="1">
+		<file url="assets/fighter/naruto_xr2.swf" startFrame="1" />
+		<face url="assets/face/naruto_xr2.png" big_url="assets/face/naruto_xr2_b.png" bar_url="assets/face/naruto_xr2_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="sidai" name="波风·水门（東鉬改）" comic_type="1">
+		<file url="assets/fighter/sidai.swf" startFrame="1" />
+		<face url="assets/face/minato.png" big_url="assets/face/minato_b.png" bar_url="assets/face/sidai_m.png" win_url="assets/face/minato_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="sidai2" name="波风·水门·九尾模式（墨尘改）" comic_type="1">
+		<file url="assets/fighter/波风水门.swf" startFrame="2" />
+		<face url="assets/face/bofengshuimen.png" big_url="assets/face/bofengshuimen_b.png" bar_url="assets/face/sidai_m.png" win_url="assets/face/minato_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="70" />
+	</fighter>
+
+        <fighter id="shuimen_ht" name="波风·水门·秽土转生（鬼泣改）" comic_type="1">
+		<file url="assets/fighter/shuimen_ht.swf" startFrame="1" />
+		<face url="assets/face/shuimen_ht.png" big_url="assets/face/shuimen_ht_b.png" bar_url="assets/face/shuimen_ht_m.png" win_url="assets/face/minato_w.png"  />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/Counting Stars.mp3" rate="70" />
+	</fighter>
+
+	<fighter id="naruto_gold" name="漩涡·鸣人·九尾查克拉" comic_type="1">
+		<file url="assets/fighter/naruto_xr.swf" startFrame="2" />
+		<face url="assets/face/naruto_hj.png" big_url="assets/face/naruto_hj_b.png" bar_url="assets/face/naruto_hj_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="naruto_ld" name="漩涡·鸣人·六道模式（墨尘改）" comic_type="1">
+		<file url="assets/fighter/naruto_ld.swf" startFrame="1" />
+		<face url="assets/face/naruto_ld.png" big_url="assets/face/naruto_ld_b.png" bar_url="assets/face/naruto_ld_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="naruto_ldx" name="漩涡·鸣人·九尾模式（残殇改）" comic_type="1">
+		<file url="assets/fighter/naruto_ldx.swf" startFrame="2" />
+		<face url="assets/face/naruto_ldx.png" big_url="assets/face/naruto_ldx_b.png" bar_url="assets/face/naruto_ldx_m.png" win_url="assets/face/naruto_hj_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>只要你变成全村人都认可的最棒忍者，你就可以把火影这个名字抢过来！</say_item>
+			<say_item>我是绝对不会放弃的，因为这就是我的忍道！</say_item>
+			<say_item>好!我决定了,我要走一条属于我自己的忍道,朝着绝对不让自己后悔的道路一直大步的走下去!</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="obito" name="宇智波·带土" comic_type="1">
+		<file url="assets/fighter/obito.swf" startFrame="1" />
+		<face url="assets/face/obito.png" big_url="assets/face/obito_b.png" bar_url="assets/face/obito_m.png" win_url="assets/face/obito_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不重视同伴的人，连废物都不如!</say_item>
+			<say_item>现实越残酷，内心的空洞就越大。</say_item>
+			<say_item>这个世界已无所谓的希望，希望和放弃没有任何的区别，只是一种敷衍的托词罢了。</say_item>
+			<say_item>我谁也不是，也不想变成谁。。。。</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+	
+
+	<fighter id="obito5" name="宇智波·带土·破面（墨尘改）" comic_type="1">
+		<file url="assets/fighter/obitox.swf" startFrame="1" />
+		<face url="assets/face/obito5.png" big_url="assets/face/obito5_b.png" bar_url="assets/face/obito5_m.png" win_url="assets/face/obito_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不重视同伴的人，连废物都不如!</say_item>
+			<say_item>现实越残酷，内心的空洞就越大。</say_item>
+			<say_item>这个世界已无所谓的希望，希望和放弃没有任何的区别，只是一种敷衍的托词罢了。</say_item>
+			<say_item>我谁也不是，也不想变成谁。。。。</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="60" />
+	</fighter>
+
+	<fighter id="obito_s2" name="宇智波·带土·破面" comic_type="1">
+		<file url="assets/fighter/obito.swf" startFrame="2" />
+		<face url="assets/face/obito_bf.png" big_url="assets/face/obito_bf_b.png" bar_url="assets/face/obito_bf_m.png" win_url="assets/face/obito_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不重视同伴的人，连废物都不如!</say_item>
+			<say_item>现实越残酷，内心的空洞就越大。</say_item>
+			<say_item>这个世界已无所谓的希望，希望和放弃没有任何的区别，只是一种敷衍的托词罢了。</say_item>
+			<say_item>我谁也不是，也不想变成谁。。。。</say_item>
+		</says>
+		<bgm url="assets/bgm/narutoboss.mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="obito_ld" name="宇智波·带土·六道模式（墨尘改）" comic_type="1">
+		<file url="assets/fighter/obitox.swf" startFrame="2" />
+		<face url="assets/face/obito_ld.png" big_url="assets/face/obito_ld_b.png" bar_url="assets/face/obito_ld_m.png" win_url="assets/face/obito_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不重视同伴的人，连废物都不如!</say_item>
+			<say_item>现实越残酷，内心的空洞就越大。</say_item>
+			<say_item>这个世界已无所谓的希望，希望和放弃没有任何的区别，只是一种敷衍的托词罢了。</say_item>
+			<say_item>我谁也不是，也不想变成谁。。。。</say_item>
+		</says>
+		<bgm url="assets/bgm/sweet ARMS - デート・ア・ライブ (约会大作战).mp3" rate="60" />
+	</fighter>
+
+	<fighter id="obito_zero" name="宇智波·带土·幼年（腐竹改）" comic_type="1">
+		<file url="assets/fighter/obito_zero.swf" startFrame="1" />
+		<face url="assets/face/obito_zero.png" big_url="assets/face/obito_zero_b.png" bar_url="assets/face/obito_zero_m.png" win_url="obito_zero_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不重视同伴的人，连废物都不如!</say_item>
+			<say_item>现实越残酷，内心的空洞就越大。</say_item>
+			<say_item>这个世界已无所谓的希望，希望和放弃没有任何的区别，只是一种敷衍的托词罢了。</say_item>
+			<say_item>我谁也不是，也不想变成谁。。。。</say_item>
+		</says>
+		<bgm url="assets/bgm/fripSide (フリップサイド) - only my railgun.mp3" rate="60" />
+	</fighter>
+
+	<!-- ====================   其他角色          ================================================================================= -->
+	
+	<fighter id="jml" name="辉夜君麻吕·新（诺贝尔的梓猫改）" comic_type="1">
+		<file url="assets/fighter/新君麻吕.swf" startFrame="1" />
+		<face url="assets/face/jml.png" big_url="assets/face/jml_b.png" bar_url="assets/face/jml.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="lmly" name="蕾米莉亚·斯卡雷特（迪亚哥改）" comic_type="0">
+		<file url="assets/fighter/蕾米莉亚.swf" startFrame="1" />
+		<face url="assets/face/lmly.png" big_url="assets/face/lmly_b.png" bar_url="assets/face/lmly.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sans" name="Sans（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/sans.swf" startFrame="1" />
+		<face url="assets/face/sans.png" big_url="assets/face/sans_b.png" bar_url="assets/face/sans.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<fighter id="sanssp" name="Sans.审判模式（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/sans.swf" startFrame="2" />
+		<face url="assets/face/sanssp.png" big_url="assets/face/sanssp_b.png" bar_url="assets/face/sanssp.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sans1" name="Sans（CN改）" comic_type="0">
+		<file url="assets/fighter/sans1.swf" startFrame="1" />
+		<face url="assets/face/sans1.png" big_url="assets/face/sans1_b.png" bar_url="assets/face/sans1.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gilgamesh" name="吉尔伽美什（腐竹改）" comic_type="0">
+		<file url="assets/fighter/金闪闪.swf" startFrame="1" />
+		<face url="assets/face/gilgamesh.png" big_url="assets/face/gilgamesh_b.png" bar_url="assets/face/gilgamesh.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="diobrando" name="迪奥·布兰度·不做人了！（沃特水改）" comic_type="0">
+		<file url="assets/fighter/diobrando.swf" startFrame="1" />
+		<face url="assets/face/diobrando.png" big_url="assets/face/diobrando_b.png" bar_url="assets/face/diobrando.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+		<fighter id="K9999" name="K9999（天音改）" comic_type="0">
+		<file url="assets/fighter/K9999.swf" startFrame="1" />
+		<face url="assets/face/K9999.png" big_url="assets/face/K9999_b.png" bar_url="assets/face/K9999.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="wm" name="无名（天音改）" comic_type="0">
+		<file url="assets/fighter/无名.swf" startFrame="1" />
+		<face url="assets/face/wm.png" big_url="assets/face/wm_b.png" bar_url="assets/face/wm.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="lke" name="卢卡尔（天音改）" comic_type="0">
+		<file url="assets/fighter/卢卡尔.swf" startFrame="1" />
+		<face url="assets/face/lke.png" big_url="assets/face/lke_b.png" bar_url="assets/face/lke.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="dy" name="毒液（墨尘改）" comic_type="0">
+		<file url="assets/fighter/毒液.swf" startFrame="1" />
+		<face url="assets/face/dy.png" big_url="assets/face/dy_b.png" bar_url="assets/face/dy.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sdltr2" name="桐谷·和人·全剑技（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/全剑技桐人.swf" startFrame="2" />
+		<face url="assets/face/sdltr2.png" big_url="assets/face/sdltr2_b.jpg" bar_url="assets/face/sdltr2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="Raiden" name="绯村·剑心·雷电（沃特水改）" comic_type="0">
+		<file url="assets/fighter/雷电.swf" startFrame="5" />
+		<face url="assets/face/Raiden.png" big_url="assets/face/Raiden_b.png" bar_url="assets/face/Raiden.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="dybl" name="迪亚波罗·影（氺改）" comic_type="0">
+		<file url="assets/fighter/迪亚波罗·影.swf" startFrame="1" />
+		<face url="assets/face/dybl.png" big_url="assets/face/dybl_b.png" bar_url="assets/face/dybl.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="arutoria" name="阿尔托莉雅·潘德拉贡（腐竹改）" comic_type="0">
+		<file url="assets/fighter/呆毛王.swf" startFrame="1" />
+		<face url="assets/face/arutoria.png" big_url="assets/face/arutoria_b.png" bar_url="assets/face/arutoria.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="yun" name="赵云" comic_type="0">
+		<file url="assets/fighter/赵云.swf" startFrame="1" />
+		<face url="assets/face/yun.png" big_url="assets/face/yun_b.png" bar_url="assets/face/yun.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="yasuo" name="亚索" comic_type="0">
+		<file url="assets/fighter/亚索.swf" startFrame="1" />
+		<face url="assets/face/yasuo.png" big_url="assets/face/yasuo_b.png" bar_url="assets/face/yasuo.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gio" name="乔鲁诺·乔巴拿（CW改）" comic_type="0">
+		<file url="assets/fighter/乔鲁诺.swf" startFrame="1" />
+		<face url="assets/face/gio.png" big_url="assets/face/gio_b.png" bar_url="assets/face/gio.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sn" name="夏娜（木朽改）" comic_type="0">
+		<file url="assets/fighter/夏娜.swf" startFrame="1" />
+		<face url="assets/face/sn.png" big_url="assets/face/sn_b.png" bar_url="assets/face/sn.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sdlf" name="蒙奇·D·路飞·四档弹力人（沃特水改）" comic_type="0">
+		<file url="assets/fighter/四档路飞.swf" startFrame="1" />
+		<face url="assets/face/sd.png" big_url="assets/face/sd2.png" bar_url="assets/face/sd.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sdltr" name="桐谷·和人·双刀流（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/双刀流桐人.swf" startFrame="1" />
+		<face url="assets/face/sdltr.png" big_url="assets/face/sdltr_b.png" bar_url="assets/face/sdltr.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="yhjx" name="绯村·剑心·樱（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/樱剑.swf" startFrame="1" />
+		<face url="assets/face/yhjx.png" big_url="assets/face/yhjx_b.png" bar_url="assets/face/yhjx.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="qb" name="托尼托尼·乔巴" comic_type="0">
+		<file url="assets/fighter/乔巴.swf" startFrame="1" />
+		<face url="assets/face/qb.png" big_url="assets/face/qb_b.png" bar_url="assets/face/qb.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="boki" name="吉良·吉影（CW改）" comic_type="0">
+		<file url="assets/fighter/吉良吉影.swf" startFrame="1" />
+		<face url="assets/face/boki.png" big_url="assets/face/boki_b.png" bar_url="assets/face/boki.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="boki2" name="吉良·吉影·重置（CW改）" comic_type="0">
+		<file url="assets/fighter/吉良吉影2.swf" startFrame="1" />
+		<face url="assets/face/boki2.png" big_url="assets/face/boki2_b.png" bar_url="assets/face/boki2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="slbjt" name="贝吉塔·深蓝（残殇改）" comic_type="0">
+		<file url="assets/fighter/深蓝贝吉塔.swf" startFrame="1" />
+		<face url="assets/face/slbjt.png" big_url="assets/face/slbjt_b.png" bar_url="assets/face/slbjt.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="hh" name="花京院·曲明（氺改）" comic_type="0">
+		<file url="assets/fighter/花花.swf" startFrame="1" />
+		<face url="assets/face/hh.png" big_url="assets/face/hh_b.png" bar_url="assets/face/hh.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="fouck" name="练习沙包·fouck（沃特水改）" comic_type="0">
+		<file url="assets/fighter/fouck.swf" startFrame="1" />
+		<face url="assets/face/fouck.png" big_url="assets/face/fouck.png" bar_url="assets/face/fouck.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ygft" name="一个方头（方头改）" comic_type="0">
+		<file url="assets/fighter/方头.swf" startFrame="1" />
+		<face url="assets/face/ygft.png" big_url="assets/face/ygft_b.png" bar_url="assets/face/ygft.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="bhz" name="四皇·白胡子（鬼泣改）" comic_type="0">
+		<file url="assets/fighter/白胡子.swf" startFrame="1" />
+		<face url="assets/face/bhz.png" big_url="assets/face/bhz_b.png" bar_url="assets/face/bhz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="clwh" name="孙悟空·超蓝（kuono闲人哒改）" comic_type="0">
+		<file url="assets/fighter/超蓝悟空.swf" startFrame="1" />
+		<face url="assets/face/clwh.png" big_url="assets/face/clwh_b.png" bar_url="assets/face/clwh.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="zs" name="宇智波·止水（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/新止水.swf" startFrame="1" />
+		<face url="assets/face/zs.png" big_url="assets/face/zs_b.png" bar_url="assets/face/zs.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="zzh" name="孙悟空·自在极意功（残殇改）" comic_type="0">
+		<file url="assets/fighter/自在空.swf" startFrame="1" />
+		<face url="assets/face/zzh.png" big_url="assets/face/zzh_b.png" bar_url="assets/face/zzh.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="jd" name="角都（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/角都.swf" startFrame="1" />
+		<face url="assets/face/jd.png" big_url="assets/face/jd_b.png" bar_url="assets/face/jd.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="swyb" name="水无月·白（昶改）" comic_type="1">
+		<file url="assets/fighter/白.swf" startFrame="1" />
+		<face url="assets/face/swyb.png" big_url="assets/face/swyb_b.png" bar_url="assets/face/swyb.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="qy" name="琦玉·画风突变（xzk智龙改）" comic_type="0">
+		<file url="assets/fighter/琦玉.swf" startFrame="1" />
+		<face url="assets/face/qy.png" big_url="assets/face/qy_b.png" bar_url="assets/face/qy.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="xie" name="赤沙之·蝎（27改）" comic_type="1">
+		<file url="assets/fighter/蝎.swf" startFrame="3" />
+		<face url="assets/face/xie.png" big_url="assets/face/xie_b.png" bar_url="assets/face/xie.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gj" name="鬼鲛（正义改）" comic_type="1">
+		<file url="assets/fighter/鬼鲛.swf" startFrame="1" />
+		<face url="assets/face/gj.png" big_url="assets/face/gj_b.png" bar_url="assets/face/gj.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="hjdt" name="宇智波带土·黑绝附身" comic_type="1">
+		<file url="assets/fighter/黑绝带土.swf" startFrame="1" />
+		<face url="assets/face/hjdt.png" big_url="assets/face/hjdt_b.png" bar_url="assets/face/hjdt.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ldkks" name="旗木·卡卡西·六代（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/卡卡西.swf" startFrame="1" />
+		<face url="assets/face/ldkks.png" big_url="assets/face/ldkks_b.png" bar_url="assets/face/ldkks.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ying" name="春野·樱（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/小樱.swf" startFrame="1" />
+		<face url="assets/face/ying.png" big_url="assets/face/ying_b.png" bar_url="assets/face/ying.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="brzmr" name="旋涡·鸣人·博人传（腐竹改）" comic_type="1">
+		<file url="assets/fighter/博人传鸣人.swf" startFrame="1" />
+		<face url="assets/face/brzmr.png" big_url="assets/face/brzmr_b.png" bar_url="assets/face/brzmr.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="sai" name="山中·佐井（木朽改）" comic_type="1">
+		<file url="assets/fighter/佐井.swf" startFrame="1" />
+		<face url="assets/face/sai.png" big_url="assets/face/sai_b.png" bar_url="assets/face/sai.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="tm" name="星矢（木朽改）" comic_type="0">
+		<file url="assets/fighter/天马.swf" startFrame="1" />
+		<face url="assets/face/tm.png" big_url="assets/face/tm_b.png" bar_url="assets/face/tm.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="pj" name="御板·美琴（27改）" comic_type="0">
+		<file url="assets/fighter/炮姐.swf" startFrame="1" />
+		<face url="assets/face/pj.png" big_url="assets/face/pj_b.png" bar_url="assets/face/pj.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="pj1" name="御板·美琴（沃特水改）" comic_type="0">
+		<file url="assets/fighter/炮姐1.swf" startFrame="1" />
+		<face url="assets/face/pj1.png" big_url="assets/face/pj1_b.png" bar_url="assets/face/pj1.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="pj2" name="御板·美琴（木朽改）" comic_type="0">
+		<file url="assets/fighter/炮姐2.swf" startFrame="1" />
+		<face url="assets/face/pj2.png" big_url="assets/face/pj2_b.png" bar_url="assets/face/pj2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="bjt" name="贝吉塔（剑酱改）" comic_type="0">
+		<file url="assets/fighter/贝吉塔.swf" startFrame="1" />
+		<face url="assets/face/bjt.png" big_url="assets/face/bjt_b.png" bar_url="assets/face/bjt.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="qsfj" name="千手·扉间（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/扉间.swf" startFrame="1" />
+		<face url="assets/face/qsfj.png" big_url="assets/face/qsfj_b.png" bar_url="assets/face/qsfj.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	 <fighter id="qdmr" name="漩涡鸣人·七代（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/七代鸣人.swf" startFrame="1" />
+		<face url="assets/face/qdmr.png" big_url="assets/face/qdmr_b.png" bar_url="assets/face/qdmr.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="qdmr2" name="旋涡鸣人·七代·九尾模式（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/七代鸣人.swf" startFrame="2" />
+		<face url="assets/face/qdmr2.png" big_url="assets/face/qdmr2_b.png" bar_url="assets/face/qdmr2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+  <fighter id="dio3" name="迪奥·布兰度·砸瓦鲁多！（沃特水改）" comic_type="0">
+		<file url="assets/fighter/dio3.swf" startFrame="1" />
+		<face url="assets/face/dio3.png" big_url="assets/face/dio3_b.png" bar_url="assets/face/dio3.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="lhzz" name="宇智波佐助·六勾玉轮回眼（氺改）" comic_type="1">
+		<file url="assets/fighter/轮回佐助.swf" startFrame="1" />
+		<face url="assets/face/lhzz.png" big_url="assets/face/lhzz_b.png" bar_url="assets/face/lhzz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gs" name="千手·纲手" comic_type="1">
+		<file url="assets/fighter/纲手.swf" startFrame="1" />
+		<face url="assets/face/gs.png" big_url="assets/face/gs_b.png" bar_url="assets/face/gs.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="nemu" name="涅·音梦" comic_type="0">
+		<file url="assets/fighter/涅音梦.swf" startFrame="1" />
+		<face url="assets/face/nemu.png" big_url="assets/face/nemu_b.png" bar_url="assets/face/nemu.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="rz" name="猿飞·日斩" comic_type="1">
+		<file url="assets/fighter/日斩.swf" startFrame="1" />
+		<face url="assets/face/rz.png" big_url="assets/face/rz_b.png" bar_url="assets/face/rz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="htzms" name="扎马斯·合体（残殇改）" comic_type="0">
+		<file url="assets/fighter/合体扎.swf" startFrame="1" />
+		<face url="assets/face/htzms.png" big_url="assets/face/htzms_b.png" bar_url="assets/face/htzms.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="hy" name="大筒木·辉夜（墨尘改）" comic_type="1">
+		<file url="assets/fighter/辉夜.swf" startFrame="1" />
+		<face url="assets/face/hy.png" big_url="assets/face/hy_b.png" bar_url="assets/face/hy.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="cwzz" name="宇智波佐助·超威（氺改）" comic_type="1">
+		<file url="assets/fighter/CW须佐.swf" startFrame="1" />
+		<face url="assets/face/cwzz.png" big_url="assets/face/cwzz_b.png" bar_url="assets/face/cwzz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ldmr" name="旋涡·鸣人·六道（炫光改）" comic_type="1">
+		<file url="assets/fighter/六道鸣人.swf" startFrame="1" />
+		<face url="assets/face/ldmr.png" big_url="assets/face/ldmr_b.png" bar_url="assets/face/ldmr.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ddl" name="迪达拉重置" comic_type="1">
+		<file url="assets/fighter/迪达拉.swf" startFrame="1" />
+		<face url="assets/face/ddl.png" big_url="assets/face/ddl_b.png" bar_url="assets/face/ddl.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="brzzz" name="宇智波佐助·博人传（腐竹改）" comic_type="1">
+		<file url="assets/fighter/博人传佐助.swf" startFrame="1" />
+		<face url="assets/face/brzzz.png" big_url="assets/face/brzzz_b.png" bar_url="assets/face/brzzz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="brzzzxz" name="宇智波佐助·博人传·须佐能乎（腐竹改）" comic_type="1">
+		<file url="assets/fighter/博人传佐助.swf" startFrame="2" />
+		<face url="assets/face/brzzzxz.png" big_url="assets/face/brzzzxz_b.png" bar_url="assets/face/brzzzxz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="smk" name="迈特凯·死门（xzk智龙改）" comic_type="1">
+		<file url="assets/fighter/凯.swf" startFrame="2" />
+		<face url="assets/face/smk.png" big_url="assets/face/smk_b.png" bar_url="assets/face/smk.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="cm" name="旋涡·长门·新（27改）" comic_type="1">
+		<file url="assets/fighter/新长门.swf" startFrame="1" />
+		<face url="assets/face/cm.png" big_url="assets/face/cm_b.png" bar_url="assets/face/cm.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="hyzz" name="宇智波佐助·黑衣（残殇改）" comic_type="1">
+		<file url="assets/fighter/黑衣佐助.swf" startFrame="1" />
+		<face url="assets/face/hyzz.png" big_url="assets/face/hyzz_b.png" bar_url="assets/face/hyzz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="xrzj" name="千手柱间·仙人模式（正义改）" comic_type="1">
+		<file url="assets/fighter/仙人柱间.swf" startFrame="1" />
+		<face url="assets/face/xrzj.png" big_url="assets/face/xrzj_b.png" bar_url="assets/face/xrzj.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="txb" name="宇智波·斑·团扇（墨尘改）" comic_type="1">
+		<file url="assets/fighter/团扇斑.swf" startFrame="1" />
+		<face url="assets/face/txb.png" big_url="assets/face/txb_b.png" bar_url="assets/face/txb.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="mjn2" name="面具男·虎纹（腐竹改）" comic_type="1">
+		<file url="assets/fighter/面具男.swf" startFrame="1" />
+		<face url="assets/face/mjn.png" big_url="assets/face/mjn_b.png" bar_url="assets/face/mjn.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="bl" name="蓝染·崩玉二段·新（墨尘改）" comic_type="0">
+		<file url="assets/fighter/崩蓝.swf" startFrame="3" />
+		<face url="assets/face/bl.png" big_url="assets/face/bl_b.png" bar_url="assets/face/bl.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ztgz" name="沢田·纲吉（沃特水改）" comic_type="0">
+		<file url="assets/fighter/纲吉.swf" startFrame="1" />
+		<face url="assets/face/ztgz.png" big_url="assets/face/ztgz_b.png" bar_url="assets/face/ztgz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="nm2y" name="娜美·两年后（残殇改）" comic_type="0">
+		<file url="assets/fighter/娜美.swf" startFrame="1" />
+		<face url="assets/face/nm2y.png" big_url="assets/face/nm2y_b.png" bar_url="assets/face/nm2y.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="zms" name="黑悟空·超级赛亚人桃红（残殇改）" comic_type="0">
+		<file url="assets/fighter/黑悟空.swf" startFrame="1" />
+		<face url="assets/face/zms.png" big_url="assets/face/zms_b.png" bar_url="assets/face/zms.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="you2" name="宇智波鼬·须佐能乎（東鉬改）" comic_type="1">
+		<file url="assets/fighter/须佐鼬.swf" startFrame="2" />
+		<face url="assets/face/you2.png" big_url="assets/face/you2_b.png" bar_url="assets/face/you2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="jdatm" name="捷德·奥特曼（残殇改）" comic_type="0">
+		<file url="assets/fighter/捷德奥特曼.swf" startFrame="1" />
+		<face url="assets/face/jdatm.png" big_url="assets/face/jdatm_b.png" bar_url="assets/face/jdatm.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="qszj" name="千手·柱间（绯樱雪改）" comic_type="1">
+		<file url="assets/fighter/新柱间.swf" startFrame="1" />
+		<face url="assets/face/qszj.png" big_url="assets/face/qszj_b.png" bar_url="assets/face/qszj.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+
+	<fighter id="changmen" name="旋涡·长门（27改）" comic_type="1">
+		<file url="assets/fighter/长门.swf" startFrame="1" />
+		<face url="assets/face/kenshin.png" big_url="assets/face/kenshin_b.png" bar_url="assets/face/kenshin_m.png"win_url="assets/face/kenshin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>让世界感受痛楚！！</say_item>
+			<say_item>辛辣天塞</say_item>
+		</says>
+		<bgm url="assets/bgm/select3.mp3" rate="40" />
+	</fighter>
+	
+        <fighter id="kenshin" name="蓝染·队长时期（茶与水改）" comic_type="0">
+		<file url="assets/fighter/kenshin.swf" startFrame="1" />
+		<face url="assets/face/ly.png" big_url="assets/face/ly_b.png" bar_url="assets/face/ly.png" win_url="assets/face/kenshin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>剑是凶器，剑技是杀人的伎俩，无论用多么美丽的语言去掩饰，那始终是事实</say_item>
+			<say_item>九头龙闪！</say_item>
+		</says>
+		<bgm url="assets/bgm/川井憲次 - FIGHT.mp3" rate="80" />
+	</fighter>
+	
+	<fighter id="kenshin_bdz" name="蓝染队长·二段（茶与水改）" comic_type="0">
+		<file url="assets/fighter/kenshin.swf" startFrame="2" />
+		<face url="assets/face/kenshin_bdz.png" big_url="assets/face/kenshin_bdz_b.png" bar_url="assets/face/kenshin_bdz_m.png" win_url="assets/face/kenshin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>剑是凶器，剑技是杀人的伎俩，无论用多么美丽的语言去掩饰，那始终是事实</say_item>
+			<say_item>九头龙闪！</say_item>
+		</says>
+		<bgm url="assets/bgm/sweet ARMS - デート・ア・ライブ (约会大作战).mp3" rate="50" />
+	</fighter>
+	
+	<fighter id="kenshinx" name="绯村·剑心·嗜血" comic_type="0">
+		<file url="assets/fighter/kenshinx.swf" startFrame="1" />
+		<face url="assets/face/kenshinx.png" big_url="assets/face/kenshinx_b.png" bar_url="assets/face/kenshinx_m.png" win_url="assets/face/kenshin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>剑是凶器，剑技是杀人的伎俩，无论用多么美丽的语言去掩饰，那始终是事实</say_item>
+			<say_item>九头龙闪！</say_item>
+		</says>
+		<bgm url="assets/bgm/Hop - Azis.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="kenshin300" name="四大逼王·剑逼者（空白改）" comic_type="0">
+		<file url="assets/fighter/300Kenshin.swf" startFrame="1" />
+		<face url="assets/face/300Kenshin.png" big_url="assets/face/300Kenshin_b.png" bar_url="assets/face/300Kenshin_m.png" win_url="assets/face/kenshin_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>拼上剑与心，闪现大小兵，这就是我装逼的答案！</say_item>
+			<say_item>在下一直行差踏错，更不允许九头龙闪。</say_item>
+		</says>
+		<bgm url="assets/bgm/select3.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="tongren2" name="加强·一护（渺渺改）" comic_type="0">
+		<file url="assets/fighter/tongren.swf" startFrame="1" />
+		<face url="assets/face/yihu2.png" big_url="assets/face/yihu.png" bar_url="assets/face/yihu2.png" win_url="assets/face/yihu.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界，只需要一把剑就可以去往任何地方</say_item>
+			<say_item>屏幕左上角那称为HP的蓝色条状物，可以看到生命的残值，虽然它还有八成左右，但不能把事情看得太过乐观。因为相对来说，我已经朝死亡深渊前进了两步</say_item>
+		</says>
+		<bgm url="assets/bgm/loading.mp3" rate="75" />
+	</fighter>
+
+	<fighter id="tongren" name="桐谷·和人（空白改）" comic_type="0">
+		<file url="assets/fighter/tongren2.swf" startFrame="1" />
+		<face url="assets/face/chara_0102.png" big_url="assets/face/loll.png" bar_url="assets/face/tongren_m.png" win_url="assets/face/kirito_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>虽然是装逼，但可不是闹着玩的。</say_item>
+			<say_item>亚丝娜，救我！</say_item>
+		</says>
+		<bgm url="assets/bgm/loading.mp3" rate="75" />
+	</fighter>
+
+        <fighter id="yifu" name="伊芙·金色之暗（）" comic_type="0">
+		<file url="assets/fighter/yifu.swf" startFrame="1" />
+		<face url="assets/face/yifu.png" big_url="assets/face/yifu_b.png" bar_url="assets/face/yifu_m.png" win_url="assets/face/yifu_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/川井憲次 - FIGHT.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="sanosuke" name="相乐·左之助（剑酱改）" comic_type="0">
+		<file url="assets/fighter/sanosuke.swf" startFrame="1" />
+		<face url="assets/face/sanosuke.png" big_url="assets/face/sanosuke_b.png" bar_url="assets/face/sanosuke_m.png" win_url="assets/face/sanosuke_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/川井憲次 - FIGHT.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="yasina" name="结城明日奈（残殇改）" comic_type="0">
+		<file url="assets/fighter/yasina.swf" startFrame="1" />
+		<face url="assets/face/yasina.png" big_url="assets/face/yasina_b.png" bar_url="assets/face/yasina_m.png" win_url="assets/face/yasina_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这个世界里，是没法隐藏泪水的啊。想要哭的时候，谁都忍不住的</say_item>
+			<say_item>人生不仅仅是为了自己而不停向前冲刺，把某人的幸福当成自己的幸福，还有这样的生活方式。</say_item>
+		</says>
+		<bgm url="assets/bgm/loading.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="lufei" name="修炼·一护（鬼泣改）" comic_type="0">
+                <file url="assets/fighter/luffy.swf" startFrame="1" />
+                <face url="assets/face/lufei.png" big_url="assets/face/lufei_b.png" bar_url="assets/face/lufei_m.png" win_url="assets/face/luffy_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>我是要成为海贼王的男人！</say_item>
+                        <say_item>海贼王，我当定了！</say_item>
+                        <say_item>总有一天，我会聚集一群不输给这些人的伙伴，并找到世界第一的财宝，我要当上海贼王！！！！ </say_item>
+                </says>
+                <bgm url="assets/bgm/D-51 - BRAND NEW WORLD.mp3" rate="40" />
+        </fighter>
+
+        <fighter id="luffy_2y" name="变态·一护（氺改）" comic_type="0">
+		<file url="assets/fighter/luffy2.swf" startFrame="1" />
+		<face url="assets/face/luffy_2y.png" big_url="assets/face/luffy_2y_b.png" bar_url="assets/face/luffy_2y_m.png" win_url="assets/face/luffy_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我是要成为海贼王的男人！</say_item>
+			<say_item>总有一天，我会聚集一群不输给这些人的伙伴，并找到世界第一的财宝，我要当上海贼王！！！！ </say_item>
+			<say_item>海贼王，我当定了！</say_item>
+		</says>
+		<bgm url="assets/bgm/D-51 - BRAND NEW WORLD.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="jiang" name="绯村·剑心（3.3）" comic_type="0">
+		<file url="assets/fighter/剑心.swf" startFrame="1" />
+		<face url="assets/face/jiang.png" bar_url="assets/face/jiang_b.png" big_url="assets/face/jiang.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/D-51 - BRAND NEW WORLD.mp3" rate="100" />
+	</fighter>
+
+        <fighter id="kenshin_xx" name="剑心·嗜血（残殇改）" comic_type="0">
+                <file url="assets/fighter/kenshin_xx.swf" startFrame="1" />
+                <face url="assets/face/zoro.png" big_url="assets/face/zoro_b.png" bar_url="assets/face/zoro_m.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>我不管这个世上的人怎么说我，我只想依照我的信念做事，绝不后悔，不管现在将来都一样！</say_item>
+                        <say_item>如果一直想着麻烦的事，只会更麻烦。</say_item>
+                        <say_item>受尽苦难而不厌，此乃修罗之道。</say_item>
+                </says>
+                <bgm url="assets/bgm/D-51 - BRAND NEW WORLD.mp3" rate="40" />
+        </fighter>
+
+	<fighter id="suolong" name="朽木·露琪亚始解（氺改）" comic_type="0">
+		<file url="assets/fighter/suolong.swf" startFrame="2" />
+		<face url="assets/face/suolong.png" big_url="assets/face/suolong_b.png" bar_url="assets/face/suolong_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+                        <say_item>我不管这个世上的人怎么说我，我只想依照我的信念做事，绝不后悔，不管现在将来都一样！</say_item>
+                        <say_item>如果一直想着麻烦的事，只会更麻烦。</say_item>
+                        <say_item>受尽苦难而不厌，此乃修罗之道。</say_item>
+                </says>
+		<bgm url="assets/bgm/To+be+continued+sound+effect.mp3" rate="1" />
+	</fighter>
+
+	<fighter id="jiang2" name="绯村剑心·二段（3.3）" comic_type="0">
+		<file url="assets/fighter/剑心.swf" startFrame="2" />
+		<face url="assets/face/jiang2.png" big_url="assets/face/jiang2_b.png" bar_url="assets/face/jiang2.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>历史虽然会一再重演，但人类却无法回到过去。</say_item>
+			<say_item>如果真的能让我许下一个愿望的话……我想要……我想要活下去！把我也一起带到海上吧！</say_item>
+			<say_item>我们的船长有值得拼上性命的价值。</say_item>
+		</says>
+		<bgm url="assets/bgm/To+be+continued+sound+effect.mp3" rate="100" />
+	</fighter>
+       <fighter id="sanji" name="一护·代理消失（東钼改） " comic_type="0">
+                <file url="assets/fighter/sanji.swf" startFrame="1" />
+                <face url="assets/face/sanji.png" big_url="assets/face/sanji_b.png" bar_url="assets/face/sanji_m.png" win_url="assets/face/sanji_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>不要随随便便同情失败者，这会伤了他的自尊心。</say_item>
+                        <say_item>能原谅女人谎言的才是真正的男人。</say_item>
+                        <say_item>我做不到的由你来，你做不到的由我来。</say_item>
+                </says>
+                <bgm url="assets/bgm/sweet ARMS - Trust in you (相信你).mp3" rate="60" />
+        </fighter>
+
+        <fighter id="sanji2" name="一护·代理消失卍解（東钼改）" comic_type="0">
+                <file url="assets/fighter/sanji2.swf" startFrame="2" />
+                <face url="assets/face/sanji_2y.png" big_url="assets/face/sanji_2y_b.png" bar_url="assets/face/sanji_2y_m.png" win_url="assets/face/sanji_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>不要随随便便同情失败者，这会伤了他的自尊心。</say_item>
+                        <say_item>能原谅女人谎言的才是真正的男人。</say_item>
+                        <say_item>我做不到的由你来，你做不到的由我来。</say_item>
+                </says>
+                <bgm url="assets/bgm/sweet ARMS - Trust in you (相信你).mp3" rate="50" />
+        </fighter>
+
+	<fighter id="kenshin3" name="黑色·剑心（残殇改）" comic_type="0">
+		<file url="assets/fighter/kenshin3.swf" startFrame="1" />
+		<face url="assets/face/kenshin3.png" big_url="assets/face/kenshin3_b.png" bar_url="assets/face/kenshin3_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/ナツのテーマ.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="goku3" name="孙悟空·常态（鬼泣改）" comic_type="0">
+		<file url="assets/fighter/goku2.swf" startFrame="1" />
+		<face url="assets/face/goku3.png" big_url="assets/face/goku3_b.png" bar_url="assets/face/goku3_m.png" />
+		<contact>
+			<friend>rukia,rukia_shijie</friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/ナツのテーマ.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="jojo" name="空条·承太郎（沃特水改）" comic_type="0">
+		<file url="assets/fighter/承太郎.swf" startFrame="1" />
+		<face url="assets/face/jojo.png" bar_url="assets/face/jojo.png" big_url="assets/face/jojo_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/sweet ARMS - Trust in you (相信你).mp3" rate="100" />
+	</fighter>
+
+
+        <fighter id="kenshinx2" name="剑心·吸血（鬼泣改）" comic_type="0">
+                <file url="assets/fighter/kenshinx2.swf" startFrame="1" />
+                <face url="assets/face/nami.png" big_url="assets/face/nami_b.png" bar_url="assets/face/nami_m.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/sweet ARMS - Trust in you (相信你).mp3" rate="50" />
+        </fighter>
+
+  <fighter id="gokublack" name="黑悟空（灭却师改）" comic_type="0">
+                <file url="assets/fighter/gokublack.swf" startFrame="1" />
+                <face url="assets/face/gokublack.png" big_url="assets/face/gokublack_b.png" bar_url="assets/face/gokublack_m.png" win_url="assets/face/gokublack_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/sweet ARMS - デート・ア・ライブ (约会大作战).mp3" rate="100" />
+        </fighter>
+
+  <fighter id="goku" name="孙悟空（剑酱改）" comic_type="0">
+                <file url="assets/fighter/goku.swf" startFrame="1" />
+                <face url="assets/face/goku.png" big_url="assets/face/goku_b.png" bar_url="assets/face/goku_m.png" win_url="assets/face/goku2_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/AKINO - 海色.mp3" rate="100" />
+        </fighter>
+
+  <fighter id="goku2" name="孙悟空·超级赛亚人（剑酱改）" comic_type="0">
+                <file url="assets/fighter/goku.swf" startFrame="2" />
+                <face url="assets/face/goku2.png" big_url="assets/face/goku2_b.png" bar_url="assets/face/goku2_m.png" win_url="assets/face/goku2_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/AKINO - 海色.mp3" rate="100" />
+        </fighter>
+
+  <fighter id="wufan" name="孙悟饭（L改）" comic_type="0">
+                <file url="assets/fighter/wufan.swf" startFrame="1" />
+                <face url="assets/face/wf.png" big_url="assets/face/wf2.png" bar_url="assets/face/wf23.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>...</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/bye bye beautiful.mp3" rate="100" />
+        </fighter>
+
+  <fighter id="Shana" name="夏娜（影改）" comic_type="0">
+                <file url="assets/fighter/Shana.swf" startFrame="1" />
+                <face url="assets/face/Shana.png" big_url="assets/face/Shana_b.png" bar_url="assets/face/Shana_m.png" win_url="assets/face/shana_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>做一场美梦，将其反映到行动上。</say_item>
+                        <say_item>无路赛无路赛无路赛！</say_item>
+                </says>
+                <bgm url="assets/bgm/AKINO - 海色.mp3" rate="100" />
+        </fighter>
+
+	<fighter id="law" name="朽木·露琪亚（氺改）" comic_type="0">
+		<file url="assets/fighter/law.swf" startFrame="1" />
+		<face url="assets/face/law.png" bar_url="assets/face/law_m.png" big_url="assets/face/law_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/AKINO - 海色.mp3" rate="100" />
+	</fighter>
+
+        <fighter id="ace" name="崩玉·蓝染旧（墨尘改）" comic_type="0">
+                <file url="assets/fighter/ace.swf" startFrame="1" />
+                <face url="assets/face/ace.png" big_url="assets/face/ace_b.png" bar_url="assets/face/ace_m.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>有个爱闯祸的弟弟，做哥哥的总是特别担心。</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/田中あいみ (田中爱美) - にめんせい☆ウラオモテライフ! (两面性☆里表 Life!).mp3" rate="50" />
+        </fighter>
+
+	<fighter id="hancock" name="乌尔夸奥拉·二段归刃（残殇改） " comic_type="0">
+		<file url="assets/fighter/hancock.swf" startFrame="3" />
+		<face url="assets/face/hancock.png" big_url="assets/face/hancock_b.png" bar_url="assets/face/hancock_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>不会输的，妾身绝不会输给他们的！</say_item>
+			<say_item>受我诱惑之心，必将硬化汝等身躯！</say_item>
+			<say_item>无礼之人，给我退下！</say_item>
+		</says>
+		<bgm url="assets/revision/bgm/fvobgm/AKINO - 海色.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="buggy" name="黑崎一护·卍解加强（27改）" comic_type="0">
+		<file url="assets/fighter/buggy.swf" startFrame="2" />
+		<face url="assets/face/buggy.png" big_url="assets/face/buggy_b.png" bar_url="assets/face/buggy_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>冲啊！伙计们！</say_item>
+			<say_item>发射，巴基弹! </say_item>
+			<say_item>哈哈哈哈哈哈</say_item>
+		</says>
+		<bgm url="assets/bgm/AKINO - 海色.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="crocodile" name="黑崎一护·暗红（墨尘改）" comic_type="0">
+		<file url="assets/fighter/crocodile.swf" startFrame="1" />
+		<face url="assets/face/crocodile.png" big_url="assets/face/crocodile_b.png" bar_url="assets/face/crocodile_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>呵哈哈！</say_item>
+			<say_item>哼...... </say_item>
+			<say_item>消失在沙暴中吧</say_item>
+		</says>
+		<bgm url="assets/bgm/sweet ARMS - デート・ア・ライブ (约会大作战).mp3" rate="50" />
+	</fighter>
+
+        <fighter id="doflamingo" name="零段·一护（残殇改）" comic_type="0">
+		<file url="assets/fighter/doflamingo.swf" startFrame="1" />
+		<face url="assets/face/doflamingo.png" big_url="assets/face/doflamingo_b.png" bar_url="assets/face/doflamingo_m.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>站在顶点的人可以重新书写善恶!现在只有这个地方才是中立啊!正义会胜?那是当然的吧，只有胜者，才是正义啊!</say_item>
+			<say_item>正义会胜？ 那是当然的吧，只有胜者，才是正义啊！</say_item>
+			<say_item>纯粹的流浪的人士和抱定决心干大事的人其相貌可不大一样！</say_item>
+			<say_item>弱小的家伙，还要执着于他人的痛苦，只会自取灭亡。</say_item>
+		</says>
+		<bgm url="assets/bgm/select.mp3" rate="100" />
+	</fighter>
+
+        <fighter id="jack" name="杰克奥特曼（茶与水改）" comic_type="0">
+                <file url="assets/fighter/jack.swf" startFrame="1" />
+                <face url="assets/face/jack.png" big_url="assets/face/jack_b.png" bar_url="assets/face/jack_m.png" win_url="assets/face/jack_w.png" />
+                <contact>
+                        <friend></friend>
+                        <enemy></enemy>
+                </contact>
+                <says>
+                        <say_item>啊，没能量了</say_item>
+                        <say_item>...</say_item>
+                </says>
+                <bgm url="assets/bgm/AKINO - 海色.mp3" rate="50" />
+        </fighter>
+
+        <fighter id="Marisa" name="雾雨·魔理沙（渺渺改）" comic_type="0">
+		<file url="assets/fighter/Marisa.swf" startFrame="1" />
+		<face url="assets/face/Marisa.png" big_url="assets/face/Marisa_b.png" bar_url="assets/face/Marisa_m.png" win_url="assets/face/Marisa_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>da☆ze！</say_item>
+			<say_item>只有华丽并不是魔法，弹幕最重要的是火力。</say_item>
+			<say_item>人生如何悲喜并不重要，最重要的是我们拥有戏剧般的人生啊！</say_item>
+		</says>
+		<bgm url="assets/bgm/上海アリス幻樂団 (上海爱莉丝幻乐团) - 魔女達の舞踏会.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="dioda" name="迪奥·布兰度·赛高尼high！（沃特水改）" comic_type="0">
+		<file url="assets/fighter/dioda.swf" startFrame="1" />
+		<face url="assets/face/dioda.png" big_url="assets/face/dioda_b.png" bar_url="assets/face/dioda.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>这就是我所选择的道路，是我必须去做的事。</say_item>
+			<say_item>只要有同伴，公会就会存在。</say_item>
+			<say_item>抱歉了，不管是女人还是小孩，凡是伤害我伙伴的人，我都不会原谅的!</say_item>
+		</says>
+		<bgm url="assets/bgm/op.mp3" rate="1" />
+	</fighter>
+
+	<fighter id="Inuyasha" name="犬夜叉（渺渺改）" comic_type="0">
+		<file url="assets/fighter/Inuyasha.swf" startFrame="1" />
+		<face url="assets/face/Inuyasha.png" big_url="assets/face/Inuyasha_b.png" bar_url="assets/face/Inuyasha_m.png" win_url="assets/face/Inuyasha_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>如果我的命是你的,那么,你的命也是我的!</say_item>
+			<say_item>我从来没有一天忘记过你的存在呀!</say_item>
+			<say_item>仍是那么熟悉的味道,只是用墓土和骨灰作成的身体,已经不再有体温</say_item>
+		</says>
+		<bgm url="assets/bgm/RURUTIA (ルルティア) - 深蓝.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="you" name="宇智波鼬·秽土（诺贝尔的梓猫改）" comic_type="1">
+		<file url="assets/fighter/秽土鼬.swf" startFrame="1" />
+		<face url="assets/face/you.png" big_url="assets/face/you_b.png" bar_url="assets/face/you.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我们要是为了保护家人，国家也好，世界也好，通通都可以视为敌人!</say_item>
+			<say_item>你准备好成为妖精的尾巴的敌人了吗?</say_item>
+			<say_item>不要被打败了就罗里罗嗦！我们可是来自妖精的尾巴，是不知阻挠为何物的协会，不继续走下去的话就生存不了！</say_item>
+		</says>
+		<bgm url="assets/bgm/op.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="ygns" name="伊格尼斯（昶羽c改）" comic_type="0">
+		<file url="assets/fighter/伊格尼斯.swf" startFrame="1" />
+		<face url="assets/face/ygns.png" big_url="assets/face/ygns_b.png" bar_url="assets/face/ygns.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我们要是为了保护家人，国家也好，世界也好，通通都可以视为敌人!</say_item>
+			<say_item>你准备好成为妖精的尾巴的敌人了吗?</say_item>
+			<say_item>不要被打败了就罗里罗嗦！我们可是来自妖精的尾巴，是不知阻挠为何物的协会，不继续走下去的话就生存不了！</say_item>
+		</says>
+		<bgm url="assets/bgm/op.mp3" rate="50" />
+	</fighter>
+
+        <fighter id="baizai" name="朽木·白哉（赤炎改）" comic_type="0">
+		<file url="assets/fighter/帝白.swf" startFrame="1" />
+		<face url="assets/face/baizai.png" big_url="assets/face/baizai_b.png" bar_url="assets/face/baizai.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		<bgm url="assets/bgm/RURUTIA (ルルティア) - 深蓝.mp3" rate="50" />
+	</fighter>
+
+	<fighter id="jinmu" name="金木·研·加强（残殇改）" comic_type="0">
+		<file url="assets/fighter/jinmu.swf" startFrame="1" />
+		<face url="assets/face/jinmu (2).png" big_url="assets/face/jinmu_b (2).png" bar_url="assets/face/jinmu_m.png" win_url="assets/face/jinmu_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>没有光明是不幸的吗？需要光明才是真正的不幸。</say_item>
+			<say_item>错的不是我 错的是这个世界</say_item>
+			<say_item>我在这个世界寻找希望，却一直寻找不到；所以我只有在另一个世界中得到绝望。</say_item>
+		</says>
+		<bgm url="assets/bgm/AKINO - 海色.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="dio" name="迪奥·布兰度·屎蛋都怕我！（沃特水改）" comic_type="0">
+		<file url="assets/fighter/dio.swf" startFrame="1" />
+		<face url="assets/face/dio.png" big_url="assets/face/dio2.png" bar_url="assets/face/dio3.png" win_url="assets/face/dio_w.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>胜利，然后支配一切！</say_item>
+			<say_item>乔瑟夫·乔斯达！你在看着我对吧！</say_item>
+			<say_item>你还曾记得你至今吃过多少块面包吗？</say_item>
+		</says>
+		<bgm url="assets/bgm/voodoo kingdom.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="Mikoto" name="御坂·美琴（沃特水改）" comic_type="0">
+		<file url="assets/fighter/Mikoto.swf" startFrame="1" />
+		<face url="assets/face/Mikoto.png" big_url="assets/face/Mikoto2.png" bar_url="assets/face/Mikoto3.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>并非是要靠那二分之一的机运来帮你做出抉择，而是因为当硬币被抛上空中，开始旋转的那一瞬间你会突然明白，自己想要的！</say_item>
+			<say_item>接下来就是我个人打架时间了，抱歉，我要出手了。</say_item>
+			<say_item>困扰的时候即使向神祈祷....也不会有奇迹发生...哭喊着求救...也不会有听到赶来的英雄....</say_item>
+		</says>
+		<bgm url="assets/bgm/fripSide (フリップサイド) - only my railgun.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="reimu" name="博丽灵梦（渺渺改）" comic_type="0">
+		<file url="assets/fighter/reimu.swf" startFrame="1" />
+		<face url="assets/face/reimu.png" big_url="assets/face/reimu_b.png" bar_url="assets/face/reimu_m.png" win_url="assets/face/reimu_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>嗅到异变的味道了</say_item>
+			<say_item>供奉十万元我什么都做</say_item>
+		</says>
+		<bgm url="assets/bgm/AKINO - 海色.mp3" rate="70" />
+	</fighter>
+	
+
+	<fighter id="jdyh" name="九段一护·共三阶九段变身（小皮改）" comic_type="0">
+		<file url="assets/fighter/九段一护.swf" startFrame="1" />
+		<face url="assets/face/jdyh.png" big_url="assets/face/ichigo_zero2_b.png" bar_url="assets/face/jdyh.png" win_url="assets/face/.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>露琪亚，我一定会救你的！</say_item>
+			<say_item>始解！！</say_item>
+		</says>
+		<bgm url="assets/bgm/アンティック-珈琲店- (Antic cafe) - 覚醒ヒロイズム～THE HERO WITHOUT A 'NAME'～ (觉醒英雄主义~THE HERO WITHOUT A 'NAME'~).mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="jdyh3" name="九段一护·三段·卍解（小皮改）" comic_type="0">
+		<file url="assets/fighter/九段一护.swf" startFrame="3" />
+		<face url="assets/face/jdyh3.png" big_url="assets/face/ichigo_wj2_b.png" bar_url="assets/face/jdyh3.png" win_url="assets/face/ .png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>月牙天冲！！ </say_item>
+			<say_item>让你尝尝天锁斩月的厉害！ </say_item>
+		</says>
+		<bgm url="assets/bgm/AKINO - 海色.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="Gintoki" name="坂田·银时（沃特水改）" comic_type="0">
+		<file url="assets/fighter/Gintoki.swf" startFrame="1" />
+		<face url="assets/face/Gintoki.png" big_url="assets/face/Gintoki_b.png" bar_url="assets/face/Gintoki_m.jpg" win_url="assets/face/Gintoki_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item> </say_item>
+			<say_item> </say_item>
+		</says>
+		<bgm url="assets/bgm/愛内里菜 - 恋はスリル、ショック、サスペンス.mp3" rate="70" />
+	</fighter>
+	
+	<fighter id="saitama" name="琦玉（沃特水改）" comic_type="0">
+		<file url="assets/fighter/saitama.swf" startFrame="1" />
+		<face url="assets/face/saitama.png" big_url="assets/face/saitama_b.png" bar_url="assets/face/saitama_m.png" win_url="assets/face/saitama_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>在灾难面前，如果连英雄都逃跑了，那还有谁能站出来？</say_item>
+			<say_item>我只是一个兴趣使然的英雄。</say_item>
+			<say_item>我又不是为了你们的几句评价才去当的英雄，而是因为我想当才去当的！</say_item>
+		</says>
+		<bgm url="assets/bgm/JAM Project - THE HERO !! ~怒れる拳に火をつけろ~.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="Tsuna" name="黑崎·一心（残殇改）" comic_type="0">
+		<file url="assets/fighter/黑崎一心.swf" startFrame="1" />
+		<face url="assets/face/Tsuna.png" big_url="assets/face/Tsuna_b.png" bar_url="assets/face/Tsuna_m.png" win_url="assets/face/Tsuna_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>我的死气并非来自于绝望，是从希望诞生的。</say_item>
+			<say_item>我想要的是保护同伴的力量，能够在未来，跟同伴欢笑度日的力量。</say_item>
+			<say_item>有了大家的支持，我们才能战斗下去啊。力量的涌现，正是由于有了支持。</say_item>
+		</says>
+		<bgm url="assets/bgm/back.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="lucy" name="孙·悟空（鬼泣改）" comic_type="0">
+		<file url="assets/fighter/lucy.swf" startFrame="1" />
+		<face url="assets/face/lucy.png" bar_url="assets/face/lucy_m.png" big_url="assets/face/lucy_b.png" win_url="assets/face/lucy_w.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/lucy.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="jdyh6" name="九段一护·六段·虚化（小皮改）" comic_type="0">
+		<file url="assets/fighter/九段一护.swf" startFrame="6" />
+		<face url="assets/face/jdyh6.png" bar_url="assets/face/jdyh6.png" big_url="assets/face/ichigo_xh2_b.png" win_url="assets/face/.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/mirajane.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="jdyh9" name="九段一护·九段·双纹虚化（小皮改）" comic_type="0">
+		<file url="assets/fighter/九段一护.swf" startFrame="9" />
+		<face url="assets/face/jdyh9.png" bar_url="assets/face/jdyh9.png" big_url="assets/face/ichigo_sw_b.png" win_url="assets/face/.png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/laxus.mp3" rate="80" />
+	</fighter>
+	
+	<fighter id="yingzuo" name="宇智波佐助·晓（鲤改）" comic_type="1">
+		<file url="assets/fighter/新鹰佐.swf" startFrame="1" />
+		<face url="assets/face/yingzuo.png" bar_url="assets/face/yingzuo.png" big_url="assets/face/yingzuo_b.png" win_url="assets/face/png"/>
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		<says>
+			<say_item>......</say_item>
+		</says>
+		</contact>
+		<bgm url="assets/bgm/fairytail1.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="yz" name="宇智波佐助·晓（炫光改）" comic_type="1">
+		<file url="assets/fighter/嘤佐.swf" startFrame="1" />
+		<face url="assets/face/yz.png" big_url="assets/face/yz_b.png" bar_url="assets/face/yz.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="yz2" name="宇智波佐助·晓（東鉬改）" comic_type="1">
+		<file url="assets/fighter/鹰佐.swf" startFrame="1" />
+		<face url="assets/face/yz2.png" big_url="assets/face/yz2_b.png" bar_url="assets/face/yz2.png" win_url="assets/face/.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<says>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+			<say_item>…</say_item>
+		</says>
+		<bgm url="assets/bgm/ichigo.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="jellal22" name="杰拉尔·费尔南迪斯" comic_type="0">
+		<file url="assets/fighter/jellal22.swf" startFrame="1" />
+		<face url="assets/face/jellal22.png" bar_url="assets/face/jellal22_m.png" big_url="assets/face/jellal22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/fairytail_boss.mp3" rate="100" />
+	</fighter>
+	
+	<fighter id="luffy22" name="蒙奇·D·路飞" comic_type="0">
+		<file url="assets/fighter/luffy22.swf" startFrame="1" />
+		<face url="assets/face/luffy22.png" bar_url="assets/face/luffy22_m.png" big_url="assets/face/luffy22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece2.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="luffy222" name="蒙奇·D·路飞(两年后)" comic_type="0">
+		<file url="assets/fighter/luffy222.swf" startFrame="1" />
+		<face url="assets/face/luffy222.png" bar_url="assets/face/luffy222_m.png" big_url="assets/face/luffy222_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/luffy.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="zoro22" name="罗罗诺亚·索隆" comic_type="0">
+		<file url="assets/fighter/zoro22.swf" startFrame="1" />
+		<face url="assets/face/zoro22.png" bar_url="assets/face/zoro22_m.png" big_url="assets/face/zoro22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece2.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="zoro222" name="罗罗诺亚·索隆(两年后)" comic_type="0">
+		<file url="assets/fighter/zoro222.swf" startFrame="1" />
+		<face url="assets/face/zoro222.png" bar_url="assets/face/zoro222_m.png" big_url="assets/face/zoro222_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/zoro.mp3" rate="100" />
+	</fighter>	
+
+	<fighter id="sanji22" name="文斯莫克·山治" comic_type="0">
+		<file url="assets/fighter/sanji22.swf" startFrame="1" />
+		<face url="assets/face/sanji22.png" bar_url="assets/face/sanji22_m.png" big_url="assets/face/sanji22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece2.mp3" rate="80" />
+	</fighter>	
+
+	<fighter id="sanji222" name="文斯莫克·山治(两年后)" comic_type="0">
+		<file url="assets/fighter/sanji222.swf" startFrame="1" />
+		<face url="assets/face/sanji222.png" bar_url="assets/face/sanji222_m.png" big_url="assets/face/sanji222_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/sanji.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="nami22" name="娜美" comic_type="0">
+		<file url="assets/fighter/nami22.swf" startFrame="1" />
+		<face url="assets/face/nami22.png" bar_url="assets/face/nami22_m.png" big_url="assets/face/nami22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece1.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="ace22" name="波特卡斯·D·艾斯" comic_type="0">
+		<file url="assets/fighter/ace22.swf" startFrame="1" />
+		<face url="assets/face/ace22.png" bar_url="assets/face/ace22_m.png" big_url="assets/face/ace22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/ace.mp3" rate="100" />
+	</fighter>	
+
+	<fighter id="hancock22" name="波雅·汉库克" comic_type="0">
+		<file url="assets/fighter/hancock22.swf" startFrame="1" />
+		<face url="assets/face/hancock22.png" bar_url="assets/face/hancock22_m.png" big_url="assets/face/hancock22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/sanji.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="buggy22" name="巴基" comic_type="0">
+		<file url="assets/fighter/buggy22.swf" startFrame="1" />
+		<face url="assets/face/buggy22.png" bar_url="assets/face/buggy22_m.png" big_url="assets/face/buggy22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece1.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="crocodile22" name="沙·克洛克达尔" comic_type="0">
+		<file url="assets/fighter/crocodile22.swf" startFrame="1" />
+		<face url="assets/face/crocodile22.png" bar_url="assets/face/crocodile22_m.png" big_url="assets/face/crocodile22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/crocodile.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="robin222" name="妮可·罗宾(两年后)" comic_type="0">
+		<file url="assets/fighter/robin222.swf" startFrame="1" />
+		<face url="assets/face/robin222.png" bar_url="assets/face/robin222_m.png" big_url="assets/face/robin222_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece2.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="jinbei22" name="甚平" comic_type="0">
+		<file url="assets/fighter/jinbei22.swf" startFrame="1" />
+		<face url="assets/face/jinbei22.png" bar_url="assets/face/jinbei22_m.png" big_url="assets/face/jinbei22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/law.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="law22" name="特拉法尔加·罗" comic_type="0">
+		<file url="assets/fighter/law22.swf" startFrame="1" />
+		<face url="assets/face/law22.png" bar_url="assets/face/law22_m.png" big_url="assets/face/law22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/law.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="doflamingo22" name="唐吉诃德·多弗朗明哥" comic_type="0">
+		<file url="assets/fighter/doflamingo22.swf" startFrame="1" />
+		<face url="assets/face/doflamingo22.png" bar_url="assets/face/doflamingo22_m.png" big_url="assets/face/doflamingo22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece_boss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="aokiji22" name="青雉" comic_type="0">
+		<file url="assets/fighter/aokiji22.swf" startFrame="1" />
+		<face url="assets/face/aokiji22.png" bar_url="assets/face/aokiji22_m.png" big_url="assets/face/aokiji22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece_boss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="franky22" name="弗兰奇" comic_type="0">
+		<file url="assets/fighter/franky22.swf" startFrame="1" />
+		<face url="assets/face/franky22.png" bar_url="assets/face/franky22_m.png" big_url="assets/face/franky22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/onepiece_boss.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="natsu22" name="纳兹·多拉格尼尔" comic_type="0">
+		<file url="assets/fighter/natsu22.swf" startFrame="1" />
+		<face url="assets/face/natsu22.png" bar_url="assets/face/natsu22_m.png" big_url="assets/face/natsu22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/natsu.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gray22" name="格雷·佛尔帕斯塔" comic_type="0">
+		<file url="assets/fighter/gray22.swf" startFrame="1" />
+		<face url="assets/face/gray22.png" bar_url="assets/face/gray22_m.png" big_url="assets/face/gray22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/gray.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="lucy22" name="露西·哈特菲利亚" comic_type="0">
+		<file url="assets/fighter/lucy22.swf" startFrame="1" />
+		<face url="assets/face/lucy22.png" bar_url="assets/face/lucy22_m.png" big_url="assets/face/lucy22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/lucy.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="ersa22" name="艾露莎·舒卡勒托" comic_type="0">
+		<file url="assets/fighter/ersa22.swf" startFrame="1" />
+		<face url="assets/face/ersa22.png" bar_url="assets/face/ersa22_m.png" big_url="assets/face/ersa22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/ersa.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="gajeel22" name="伽吉鲁·雷特福克斯" comic_type="0">
+		<file url="assets/fighter/gajeel22.swf" startFrame="1" />
+		<face url="assets/face/gajeel22.png" bar_url="assets/face/gajeel22_m.png" big_url="assets/face/gajeel22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/gajeel.mp3" rate="80" />
+	</fighter>
+	
+	<fighter id="wendy22" name="温蒂·玛贝尔" comic_type="0">
+		<file url="assets/fighter/wendy22.swf" startFrame="1" />
+		<face url="assets/face/wendy22.png" bar_url="assets/face/wendy22_m.png" big_url="assets/face/wendy22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/fairytail1.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="mirajane22" name="米拉杰·斯特劳斯" comic_type="0">
+		<file url="assets/fighter/mirajane22.swf" startFrame="1" />
+		<face url="assets/face/mirajane22.png" bar_url="assets/face/mirajane22_m.png" big_url="assets/face/mirajane22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/mirajane.mp3" rate="100" />
+	</fighter>
+
+	<fighter id="laxus22" name="拉克萨斯·朵勒阿" comic_type="0">
+		<file url="assets/fighter/laxus22.swf" startFrame="1" />
+		<face url="assets/face/laxus22.png" bar_url="assets/face/laxus22_m.png" big_url="assets/face/laxus22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/laxus.mp3" rate="80" />
+	</fighter>
+
+	<fighter id="juvia22" name="朱毕安·罗克丝" comic_type="0">
+		<file url="assets/fighter/juvia22.swf" startFrame="1" />
+		<face url="assets/face/juvia22.png" bar_url="assets/face/juvia22_m.png" big_url="assets/face/juvia22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/fairytail1.mp3" rate="80" />
+	</fighter>
+	
+	<fighter id="makarov22" name="马卡罗夫·朵勒阿" comic_type="0">
+		<file url="assets/fighter/makarov22.swf" startFrame="1" />
+		<face url="assets/face/makarov22.png" bar_url="assets/face/makarov22_m.png" big_url="assets/face/makarov22_b.png" />
+		<contact>
+			<friend></friend>
+			<enemy></enemy>
+		</contact>
+		<bgm url="assets/bgm/fairytail_boss.mp3" rate="100" />
+	</fighter>
+
+
+	<fighter id="random" name="随便人物" comic_type="-1">
+		<face url="assets/face/random.png" />
+	</fighter>
+	
+	<fighter id="random_bleach" name="随便死神人物" comic_type="0">
+		<face url="assets/face/random_bleach.png" />
+	</fighter>
+	
+	<fighter id="random_naruto" name="随便炎影人物" comic_type="1">
+		<face url="assets/face/random_naruto.png" />
+	</fighter>
+</fighter_config>
